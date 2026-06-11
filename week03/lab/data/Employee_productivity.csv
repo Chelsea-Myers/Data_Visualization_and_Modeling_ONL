@@ -1,0 +1,301 @@
+HoursWorked,FocusScore,ProductivityScore,Department,YearsAtCompany,TeamMeetingsPerWeek,DeskLocation
+42.4,6.3,3127.96,Engineering,17,0,Open Plan
+34.0,7.200000000000001,4742.6,HR,8,6,Private Office
+47.2,5.6,2044.73,Sales,15,3,Remote
+38.4,9.0,5818.92,HR,5,6,Private Office
+36.4,2.5,1841.31,Sales,9,6,Remote
+44.4,4.0,2385.25,Sales,20,3,Open Plan
+44.3,7.1,3888.09,Sales,8,4,Open Plan
+36.8,5.4,2077.97,Engineering,4,3,Open Plan
+40.1,4.5,2404.92,Marketing,15,5,Open Plan
+28.8,2.3,784.8800000000001,Engineering,4,3,Private Office
+45.8,6.3999999999999995,3203.25,Sales,14,3,Private Office
+45.0,3.1000000000000005,1901.3899999999999,HR,10,3,Open Plan
+44.8,6.1,2743.44,Engineering,1,3,Private Office
+29.9,8.0,4777.64,Marketing,9,4,Remote
+38.3,5.1000000000000005,2024.9899999999998,HR,16,0,Open Plan
+40.0,5.2,2068.99,Engineering,1,3,Private Office
+42.0,6.0,4085.21,HR,14,5,Open Plan
+41.4,7.9,4062.77,Marketing,6,1,Remote
+46.6,4.3,2108.93,Engineering,19,4,Private Office
+32.3,6.0,3844.51,HR,17,2,Remote
+39.0,6.2,3356.97,Sales,19,5,Open Plan
+36.7,8.100000000000001,5636.85,HR,6,2,Open Plan
+41.0,5.6000000000000005,2260.58,Marketing,3,3,Open Plan
+42.8,6.5,3030.5,Sales,5,2,Open Plan
+46.6,5.2,2759.78,Marketing,0,0,Private Office
+37.7,5.1,1708.8900000000003,Sales,3,5,Private Office
+43.4,10.0,5093.88,Engineering,15,2,Open Plan
+30.9,6.1,3901.8099999999995,Marketing,5,4,Private Office
+39.1,7.5,4539.25,Engineering,17,5,Remote
+45.3,5.2,2016.44,Marketing,19,4,Remote
+38.0,8.2,4058.96,HR,8,2,Private Office
+41.7,6.3,2279.22,Marketing,0,6,Private Office
+45.2,6.3,4019.96,Marketing,7,2,Open Plan
+45.2,5.9,3426.03,Sales,3,4,Remote
+44.3,5.5,2932.71,Marketing,3,3,Private Office
+39.4,6.5,3479.92,HR,2,5,Remote
+40.6,7.0,2839.28,Marketing,15,6,Open Plan
+38.4,6.2,2896.68,HR,4,2,Open Plan
+44.2,8.3,4635.35,HR,8,1,Remote
+52.0,8.9,4316.4400000000005,Engineering,0,1,Remote
+40.4,6.3,3491.52,Sales,8,4,Private Office
+37.2,8.899999999999999,5494.29,HR,11,2,Private Office
+40.2,7.0,3289.04,Engineering,16,3,Private Office
+29.6,5.7,2886.63,HR,6,5,Remote
+41.2,3.9000000000000004,1771.4300000000003,Sales,4,4,Remote
+35.5,5.9,2819.32,Marketing,10,5,Remote
+39.3,4.5,2198.76,HR,14,1,Open Plan
+40.1,5.0,3205.47,HR,18,3,Open Plan
+43.8,7.7,4802.3,Engineering,19,0,Private Office
+41.1,5.8,3583.72,HR,16,1,Private Office
+44.2,7.1,3546.02,Marketing,19,2,Remote
+32.8,7.199999999999999,3759.38,HR,17,3,Open Plan
+33.0,3.5,2883.75,Engineering,1,4,Open Plan
+39.5,5.1,2370.99,Engineering,6,3,Remote
+37.3,3.0999999999999996,1615.22,HR,7,3,Private Office
+39.3,7.7,3957.69,Marketing,4,1,Private Office
+41.8,7.4,4559.02,Engineering,12,3,Private Office
+39.8,9.0,6112.79,Marketing,16,3,Private Office
+42.8,9.4,5319.12,Sales,11,0,Private Office
+47.7,8.3,4288.76,Engineering,4,2,Private Office
+35.1,7.800000000000001,3814.9699999999993,Sales,16,3,Private Office
+39.6,8.0,3800.7700000000004,Sales,15,4,Private Office
+41.5,6.5,3962.55,Marketing,8,6,Private Office
+39.0,3.8,2472.51,Sales,15,4,Open Plan
+45.2,9.0,4827.86,Sales,7,5,Remote
+28.0,9.8,4067.3,Marketing,1,0,Remote
+50.2,3.9000000000000004,3052.46,Engineering,9,1,Open Plan
+34.3,3.7,2959.53,HR,7,1,Open Plan
+41.1,9.0,3426.34,Engineering,11,1,Private Office
+43.5,3.8,1324.34,Sales,8,3,Remote
+36.1,4.8,1115.22,Sales,17,3,Remote
+42.3,6.4,4162.04,Sales,12,1,Open Plan
+43.5,1.2999999999999998,0.0,Marketing,17,3,Open Plan
+42.6,6.4,3183.24,Engineering,13,4,Remote
+35.4,4.4,2532.98,Engineering,19,2,Open Plan
+50.0,4.4,1433.9,HR,11,1,Private Office
+41.1,7.799999999999999,3889.74,HR,9,5,Open Plan
+34.2,5.4,3187.31,Marketing,19,1,Remote
+43.2,6.8999999999999995,4848.01,Sales,19,4,Private Office
+40.2,4.6,1960.4099999999999,Engineering,5,4,Remote
+42.3,9.0,5630.88,HR,7,6,Remote
+22.2,7.6,3504.26,Marketing,3,1,Private Office
+46.6,9.899999999999999,5191.29,Engineering,14,1,Open Plan
+40.8,5.1,2830.61,Sales,9,4,Private Office
+40.8,8.2,3770.49,Marketing,16,2,Private Office
+37.8,5.8,2708.21,Engineering,3,0,Private Office
+43.8,6.3,2937.15,Sales,9,3,Open Plan
+44.9,1.0,1743.6999999999998,HR,11,3,Open Plan
+41.4,2.7,2178.74,Sales,0,3,Open Plan
+47.0,2.4000000000000004,1237.96,Marketing,17,4,Open Plan
+40.4,5.0,2201.66,HR,10,4,Open Plan
+38.0,4.1,2267.87,HR,3,3,Remote
+34.9,4.9,3923.5600000000004,Engineering,0,6,Open Plan
+37.1,7.1,4175.53,Engineering,3,5,Remote
+44.1,3.8,1426.61,Engineering,13,4,Remote
+39.6,4.3,589.0,Sales,5,8,Open Plan
+38.3,6.3,4790.07,Engineering,1,2,Open Plan
+42.6,3.7,1975.3600000000001,Engineering,20,5,Private Office
+34.7,3.7,1702.44,Sales,11,6,Open Plan
+37.4,9.0,4843.38,Sales,0,3,Remote
+41.5,5.5,3087.86,Sales,15,3,Remote
+42.8,4.2,2730.03,Engineering,12,3,Remote
+42.5,6.7,3506.49,HR,13,5,Remote
+41.4,3.3,946.03,HR,14,3,Private Office
+42.4,7.3999999999999995,2893.34,HR,17,1,Private Office
+46.8,6.8999999999999995,4272.58,Sales,7,2,Private Office
+36.1,8.2,4430.77,HR,3,2,Open Plan
+37.7,10.0,5868.59,Marketing,3,1,Private Office
+46.1,8.2,4027.74,Sales,9,6,Remote
+33.6,7.1000000000000005,4061.41,HR,1,2,Open Plan
+44.4,3.8999999999999995,1145.09,Engineering,7,6,Private Office
+31.4,6.7,3253.3,Marketing,11,6,Open Plan
+37.7,7.0,3201.99,Marketing,17,3,Remote
+43.7,4.7,906.6300000000001,Engineering,6,6,Remote
+39.0,4.6,2666.2,HR,8,3,Remote
+39.1,5.5,2583.85,Sales,20,4,Remote
+43.4,7.199999999999999,4879.98,Sales,10,5,Remote
+30.9,8.7,3741.85,Sales,18,1,Remote
+40.2,4.4,2943.9,Marketing,16,2,Remote
+42.0,4.4,1798.25,Marketing,6,2,Open Plan
+38.8,2.7,2021.54,Engineering,12,3,Open Plan
+36.9,5.6,2071.06,HR,17,5,Private Office
+36.6,4.7,3116.63,HR,7,6,Open Plan
+42.2,6.7,3596.04,Sales,10,1,Open Plan
+31.5,7.5,2812.41,Engineering,10,2,Remote
+42.0,7.4,3583.65,Sales,14,2,Remote
+37.6,5.1000000000000005,1928.1100000000001,Engineering,10,3,Open Plan
+38.5,6.1000000000000005,1941.98,HR,16,2,Open Plan
+43.5,7.1,3072.45,Engineering,10,1,Remote
+43.4,6.7,2608.92,HR,4,3,Remote
+41.2,3.9000000000000004,2432.17,Sales,7,4,Remote
+40.8,5.6000000000000005,1944.56,Marketing,7,1,Open Plan
+44.1,10.0,3885.91,HR,20,2,Remote
+49.5,3.5,3339.19,Engineering,0,6,Remote
+43.2,2.0999999999999996,1571.3,Engineering,12,0,Open Plan
+35.2,10.0,5809.16,Marketing,7,0,Remote
+29.6,6.6,2224.87,Engineering,2,2,Private Office
+49.7,7.7,2557.96,Engineering,15,1,Remote
+31.3,9.0,4176.23,Engineering,2,3,Private Office
+46.1,4.9,1713.5100000000002,Sales,3,3,Remote
+44.0,4.3999999999999995,2671.19,Sales,15,5,Private Office
+38.1,7.4,5247.47,Sales,2,2,Open Plan
+43.5,7.3999999999999995,3638.71,Marketing,19,2,Private Office
+35.7,6.5,3543.2,HR,5,3,Private Office
+45.9,7.0,4815.11,Sales,15,2,Private Office
+37.4,6.2,3297.11,HR,2,1,Private Office
+43.5,6.7,2670.48,Sales,19,2,Open Plan
+44.9,6.3999999999999995,2958.53,Engineering,7,3,Private Office
+39.4,5.4,2154.58,Sales,5,1,Private Office
+51.8,4.3999999999999995,2359.55,HR,7,3,Private Office
+42.5,2.3,1389.18,HR,8,3,Private Office
+44.0,8.5,3920.3,HR,9,1,Remote
+37.6,6.4,3230.66,HR,9,2,Open Plan
+39.7,3.5,3292.11,Marketing,7,3,Open Plan
+46.8,6.8,3509.91,Sales,13,1,Remote
+36.0,8.1,3517.1,Marketing,4,2,Remote
+29.4,6.7,3842.49,Engineering,8,2,Private Office
+38.3,8.399999999999999,6299.2,Marketing,0,1,Open Plan
+35.6,5.6,1377.81,Sales,2,2,Remote
+41.7,3.5,2823.06,Marketing,17,2,Open Plan
+42.7,10.0,4680.38,Marketing,7,2,Open Plan
+36.3,5.0,2432.4700000000003,Engineering,11,1,Remote
+38.4,3.7,2670.06,Sales,13,4,Remote
+35.4,6.0,2952.38,Sales,1,0,Open Plan
+35.7,6.6,3048.08,HR,14,4,Private Office
+41.1,7.200000000000001,4434.6,Marketing,1,3,Private Office
+43.1,8.3,3844.53,Sales,8,1,Private Office
+40.9,3.7,1183.28,Marketing,19,5,Open Plan
+44.8,4.8,2308.67,Sales,5,4,Private Office
+44.9,4.8,2047.11,Sales,6,1,Open Plan
+39.6,8.600000000000001,5151.95,HR,16,7,Private Office
+37.2,5.4,2874.61,Engineering,1,3,Remote
+35.3,7.8,3238.84,Sales,2,0,Private Office
+33.8,10.0,5827.95,Marketing,5,2,Private Office
+40.7,7.4,2426.1099999999997,HR,5,2,Remote
+38.9,6.1,4144.79,HR,6,5,Remote
+50.6,7.1000000000000005,4140.83,Engineering,0,2,Open Plan
+40.6,3.0,1222.83,Sales,0,3,Private Office
+33.0,5.1000000000000005,2820.54,Marketing,2,3,Open Plan
+47.1,7.8,5062.04,Sales,16,0,Private Office
+29.3,1.9000000000000004,1428.69,Engineering,13,5,Open Plan
+33.3,1.4000000000000004,1711.5900000000001,Engineering,13,3,Open Plan
+41.8,5.0,2617.85,Marketing,14,3,Remote
+39.9,7.2,4218.639999999999,Engineering,18,2,Remote
+46.4,2.4000000000000004,902.31,Marketing,3,3,Private Office
+32.8,7.9,3321.67,Marketing,7,2,Remote
+34.0,4.5,3443.51,Engineering,6,8,Remote
+37.0,6.0,2602.2,HR,6,4,Private Office
+37.9,2.8,891.46,HR,3,4,Open Plan
+32.9,2.0,493.18,Marketing,3,1,Open Plan
+41.0,5.7,3455.6400000000003,Sales,10,5,Open Plan
+37.0,8.0,4877.34,HR,20,1,Open Plan
+32.6,4.1000000000000005,3608.11,Engineering,4,0,Open Plan
+35.5,2.8,2525.75,HR,16,6,Private Office
+45.5,6.0,3435.16,HR,11,4,Remote
+37.8,3.7,2985.23,Marketing,19,4,Open Plan
+39.2,7.7,2957.65,HR,14,2,Remote
+44.4,6.2,2563.4,Sales,19,3,Remote
+41.4,1.7000000000000002,255.93000000000006,Engineering,4,6,Private Office
+34.7,5.8,2590.08,Engineering,6,2,Private Office
+38.4,8.8,3603.79,Marketing,1,1,Private Office
+36.9,9.6,5348.93,Marketing,9,2,Remote
+40.8,3.9000000000000004,2660.85,HR,20,4,Open Plan
+37.1,7.7,2236.4700000000003,HR,6,2,Private Office
+45.3,4.3999999999999995,1756.3900000000003,Marketing,11,3,Private Office
+36.0,9.0,4388.26,Engineering,10,4,Remote
+37.4,4.7,3185.86,Sales,7,5,Open Plan
+40.4,8.0,3768.0699999999997,Marketing,19,3,Private Office
+49.6,5.1,1097.74,Marketing,0,4,Private Office
+43.9,4.1000000000000005,2265.32,HR,20,3,Open Plan
+42.6,5.6,2421.16,Marketing,16,4,Remote
+37.3,5.2,2689.47,Marketing,8,2,Open Plan
+45.2,9.6,4587.24,HR,10,1,Open Plan
+50.5,9.1,5125.55,HR,8,2,Open Plan
+47.3,3.5,3127.71,Engineering,4,3,Private Office
+45.1,7.8999999999999995,4277.6900000000005,Engineering,8,2,Private Office
+43.7,8.7,4539.52,Engineering,6,1,Remote
+36.6,6.8999999999999995,4059.26,Marketing,10,3,Private Office
+42.2,6.3999999999999995,3203.95,HR,5,6,Open Plan
+43.4,4.8999999999999995,2471.63,HR,17,3,Private Office
+38.6,7.300000000000001,2890.92,HR,6,4,Private Office
+49.6,7.8,3874.66,Engineering,2,1,Private Office
+42.1,6.4,3128.88,Marketing,9,8,Remote
+44.5,3.5,1644.63,HR,5,4,Private Office
+41.1,3.8999999999999995,1382.06,Marketing,2,4,Private Office
+29.6,7.7,4166.34,Engineering,4,2,Remote
+38.1,6.3,3375.99,Engineering,2,2,Open Plan
+39.6,9.0,4540.68,Engineering,3,3,Private Office
+45.6,7.299999999999999,3824.12,Engineering,10,6,Open Plan
+41.2,4.6,3129.75,HR,1,4,Private Office
+40.6,3.4000000000000004,1232.5,Marketing,12,5,Open Plan
+41.5,1.9000000000000004,714.81,HR,1,4,Open Plan
+39.2,6.2,2529.17,Marketing,5,1,Remote
+36.3,5.6,4410.1900000000005,Marketing,20,2,Private Office
+33.8,6.1000000000000005,3260.73,Sales,7,1,Open Plan
+41.2,3.2,1862.7600000000002,HR,11,5,Private Office
+42.9,4.7,2731.01,Sales,10,5,Private Office
+53.8,6.5,3854.52,Sales,15,1,Open Plan
+42.0,4.9,2786.51,Marketing,11,2,Open Plan
+43.3,6.1,3886.06,Sales,6,2,Private Office
+38.6,2.2,1329.33,Sales,15,4,Open Plan
+42.5,7.6000000000000005,4148.39,Marketing,10,0,Open Plan
+44.3,9.6,4575.43,HR,3,2,Open Plan
+34.7,4.8,1883.88,Engineering,19,3,Remote
+33.0,5.3999999999999995,3885.3600000000006,Marketing,15,3,Private Office
+45.8,5.4,3013.68,HR,16,2,Private Office
+45.9,5.5,1335.27,Engineering,8,4,Open Plan
+42.0,6.6000000000000005,1872.16,HR,15,2,Open Plan
+35.6,8.2,4411.6,Engineering,1,4,Remote
+41.5,7.0,4504.12,HR,0,2,Remote
+49.3,10.0,5472.73,Sales,17,2,Private Office
+31.4,9.8,4072.7,HR,13,2,Remote
+33.0,7.699999999999999,3130.42,Marketing,9,4,Remote
+40.6,8.8,5893.99,Engineering,12,2,Private Office
+40.0,5.9,3431.03,HR,15,4,Remote
+33.7,7.7,2498.88,Sales,3,2,Open Plan
+35.8,4.4,2008.87,Engineering,14,1,Private Office
+42.8,6.2,3043.89,Marketing,8,3,Remote
+37.5,6.6,2355.55,Marketing,6,4,Remote
+36.1,4.4,2356.93,HR,16,0,Open Plan
+47.6,7.0,3796.29,Engineering,20,0,Remote
+41.0,8.1,4184.27,HR,1,3,Remote
+41.6,3.9000000000000004,2385.11,Engineering,10,4,Open Plan
+44.3,5.8,1308.46,Marketing,12,7,Open Plan
+41.5,5.3,3747.4399999999996,Engineering,9,9,Open Plan
+45.4,5.7,2963.59,Sales,19,1,Remote
+41.8,10.0,4890.95,Sales,16,2,Private Office
+49.5,1.2999999999999998,225.83000000000004,Marketing,11,3,Open Plan
+37.6,10.0,5183.41,HR,11,1,Remote
+41.9,3.3,2278.34,Sales,5,5,Remote
+40.1,6.1,2497.23,Marketing,20,4,Remote
+36.7,7.199999999999999,3574.89,Sales,5,3,Remote
+38.4,9.2,4606.49,HR,3,2,Open Plan
+36.4,6.2,2975.43,Marketing,6,3,Private Office
+40.9,1.0999999999999996,856.9300000000001,Sales,10,3,Open Plan
+44.9,7.8,3418.05,Engineering,0,1,Open Plan
+40.1,5.4,2565.54,HR,18,2,Open Plan
+42.8,10.0,3696.74,HR,0,2,Remote
+41.8,7.299999999999999,4405.26,Engineering,12,5,Open Plan
+38.6,8.700000000000001,4059.5299999999997,Marketing,20,3,Private Office
+37.5,3.0999999999999996,892.78,HR,17,6,Private Office
+38.1,3.7,1882.6100000000001,Marketing,3,5,Open Plan
+28.0,7.4,3940.9300000000003,Sales,12,4,Private Office
+47.7,5.6,2784.72,Sales,16,7,Private Office
+40.3,6.6,2643.6800000000003,Sales,7,2,Private Office
+38.6,6.5,3194.24,Marketing,20,4,Remote
+33.7,3.8,1591.58,Engineering,10,6,Private Office
+48.9,6.4,3433.31,Engineering,0,5,Remote
+38.2,3.8999999999999995,2140.31,Sales,3,3,Private Office
+39.5,10.0,5052.34,Engineering,6,1,Private Office
+41.9,5.6000000000000005,2333.63,Marketing,16,3,Open Plan
+44.1,5.9,1863.14,HR,14,1,Open Plan
+36.6,9.3,4351.719999999999,Engineering,17,1,Private Office
+45.3,3.4000000000000004,883.53,HR,11,4,Private Office
+40.2,3.1000000000000005,1871.85,Marketing,14,7,Open Plan
+46.7,7.8,4034.56,Engineering,3,1,Private Office
+39.7,3.5999999999999996,1131.78,Sales,13,5,Private Office
+38.2,3.7,1983.3200000000002,HR,1,3,Private Office
+32.2,8.2,3409.5,Sales,14,1,Open Plan
+38.4,9.0,5903.01,Sales,19,4,Private Office

@@ -1,4 +1,5 @@
-Placeholder for the original germany.txt supplemental file.
-
-This file was added so the course build can resolve the notebook reference.
-Replace this placeholder with the original course text when it is available.
+Biberach an der Riß
+Dessau-Roßlau
+Fürth
+Gräfelfing
+Völklingen

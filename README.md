@@ -22,11 +22,12 @@ Install these before working with the notebooks:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/downloads)
-- [Python](https://www.python.org/downloads/)
+- [Anaconda](https://www.anaconda.com/download)
 - VS Code extensions:
-  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
   - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+Use Anaconda Navigator and JupyterLab to open and run notebooks. Use VS Code to
+clone the repository, commit your work, and push changes to GitHub.
 
 ## Fork This Repository
 
@@ -53,11 +54,22 @@ Work from your fork so you can save your own notebook changes.
 7. Choose a folder on your computer where VS Code should save the files.
 8. Select **Open** when VS Code asks whether to open the cloned repository.
 
-You should now see the course folders in the VS Code Explorer.
+You should now see the course folders in the VS Code Explorer. VS Code is the
+tool you will use for GitHub syncing.
+
+## Open The Notebooks In JupyterLab
+
+1. Open **Anaconda Navigator**.
+2. Launch **JupyterLab**.
+3. In JupyterLab, browse to the folder where you cloned your GitHub fork.
+4. Open the course folder.
+5. Open the `.ipynb` notebook for the lesson or lab you are working on.
+
+Run notebook cells from top to bottom unless your instructor says otherwise.
 
 ## Save Your Work To GitHub
 
-When you edit notebooks:
+After you edit notebooks in JupyterLab:
 
 1. Open the **Source Control** view in VS Code.
 2. Review your changed files.
@@ -78,15 +90,15 @@ have uncommitted notebook work.
 
 ## Working With Notebooks
 
-- Open `.ipynb` files in VS Code.
-- Run cells from top to bottom unless your instructor says otherwise.
+- Open and run `.ipynb` files in JupyterLab from Anaconda Navigator.
+- Use VS Code for GitHub syncing, not for running notebook lessons.
 - Keep datasets in their existing folders so relative paths continue to work.
 - Do not rename course folders unless your instructor asks you to.
 
 ## Need Help?
 
-If cloning, signing in, or running notebooks does not work, ask your instructor
-and include:
+If cloning, signing in, pushing to GitHub, or running notebooks does not work,
+ask your instructor and include:
 
 - A screenshot of the error
 - The notebook or file you were working in

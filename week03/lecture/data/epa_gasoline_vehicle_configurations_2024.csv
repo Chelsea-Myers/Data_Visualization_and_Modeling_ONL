@@ -1,0 +1,840 @@
+manufacturer,division,vehicle_line,vehicle_class,drive_system,engine_displacement_liters,rated_horsepower,city_mpg,highway_mpg,combined_mpg,co2_grams_per_mile
+"American Honda Motor Co., Inc.",Honda,ACCORD,Large Cars,"2-Wheel Drive, Front",1.5,192.0,29,37,32,196.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 4Dr,Midsize Cars,"2-Wheel Drive, Front",1.5,180.0,33,42,36,174.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 4Dr,Midsize Cars,"2-Wheel Drive, Front",1.5,180.0,31,38,34,188.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 4Dr,Midsize Cars,"2-Wheel Drive, Front",1.5,200.0,27,37,31,206.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 4Dr,Midsize Cars,"2-Wheel Drive, Front",2.0,158.0,31,40,35,184.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 4Dr,Midsize Cars,"2-Wheel Drive, Front",2.0,158.0,30,37,33,194.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",1.5,180.0,31,39,35,183.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",1.5,180.0,30,37,33,193.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",1.5,180.0,28,37,31,207.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",2.0,158.0,30,38,33,196.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",2.0,158.0,29,37,32,202.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",2.0,158.0,26,36,29,220.0
+"American Honda Motor Co., Inc.",Honda,CIVIC 5Dr,Large Cars,"2-Wheel Drive, Front",2.0,315.0,22,28,24,282.0
+"American Honda Motor Co., Inc.",Honda,CR-V AWD,Small SUV 4WD,All Wheel Drive,1.5,190.0,27,32,29,230.0
+"American Honda Motor Co., Inc.",Honda,CR-V FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,190.0,28,34,30,212.0
+"American Honda Motor Co., Inc.",Honda,CR-V FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,190.0,28,34,30,212.0
+"American Honda Motor Co., Inc.",Honda,HR-V AWD,Small Station Wagons,All Wheel Drive,2.0,158.0,25,30,27,243.0
+"American Honda Motor Co., Inc.",Honda,HR-V FWD,Small Station Wagons,"2-Wheel Drive, Front",2.0,158.0,26,32,28,228.0
+"American Honda Motor Co., Inc.",Acura,INTEGRA,Large Cars,"2-Wheel Drive, Front",1.5,200.0,30,37,33,196.0
+"American Honda Motor Co., Inc.",Acura,INTEGRA,Large Cars,"2-Wheel Drive, Front",2.0,320.0,21,28,24,281.0
+"American Honda Motor Co., Inc.",Acura,INTEGRA A-SPEC,Large Cars,"2-Wheel Drive, Front",1.5,200.0,29,36,32,202.0
+"American Honda Motor Co., Inc.",Acura,INTEGRA A-SPEC,Large Cars,"2-Wheel Drive, Front",1.5,200.0,26,36,30,211.0
+"American Honda Motor Co., Inc.",Acura,MDX AWD,Small SUV 4WD,All Wheel Drive,3.5,290.0,19,25,21,321.0
+"American Honda Motor Co., Inc.",Acura,MDX AWD Type-S,Standard SUV 4WD,All Wheel Drive,3.0,355.0,17,21,19,340.0
+"American Honda Motor Co., Inc.",Acura,MDX FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.5,290.0,19,26,22,304.0
+"American Honda Motor Co., Inc.",Honda,ODYSSEY FWD,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.5,280.0,19,28,22,300.0
+"American Honda Motor Co., Inc.",Honda,ODYSSEY FWD,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.5,280.0,19,28,22,300.0
+"American Honda Motor Co., Inc.",Honda,PASSPORT AWD,Small SUV 4WD,All Wheel Drive,3.5,280.0,19,24,21,317.0
+"American Honda Motor Co., Inc.",Honda,PILOT AWD,Standard SUV 4WD,All Wheel Drive,3.5,285.0,19,25,21,316.0
+"American Honda Motor Co., Inc.",Honda,PILOT FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.5,285.0,19,27,22,299.0
+"American Honda Motor Co., Inc.",Honda,Pilot AWD TRAILSPORT,Standard SUV 4WD,All Wheel Drive,3.5,285.0,18,23,20,338.0
+"American Honda Motor Co., Inc.",Honda,Pilot AWD Touring/Elite/Black,Standard SUV 4WD,All Wheel Drive,3.5,285.0,19,25,21,322.0
+"American Honda Motor Co., Inc.",Acura,RDX AWD,Small SUV 4WD,All Wheel Drive,2.0,272.0,21,27,23,282.0
+"American Honda Motor Co., Inc.",Acura,RDX AWD A-SPEC,Small SUV 4WD,All Wheel Drive,2.0,272.0,21,26,23,289.0
+"American Honda Motor Co., Inc.",Honda,RIDGELINE AWD,Standard Pick-up Trucks 4WD,All Wheel Drive,3.5,280.0,18,24,21,328.0
+"American Honda Motor Co., Inc.",Honda,RIDGELINE AWD TrailSport,Standard Pick-up Trucks 4WD,All Wheel Drive,3.5,280.0,18,23,20,333.0
+"American Honda Motor Co., Inc.",Acura,TLX AWD A-SPEC,Compact Cars,All Wheel Drive,2.0,272.0,21,29,24,281.0
+"American Honda Motor Co., Inc.",Acura,TLX FWD,Compact Cars,"2-Wheel Drive, Front",2.0,272.0,22,31,25,265.0
+"American Honda Motor Co., Inc.",Acura,TLX Type-S,Compact Cars,All Wheel Drive,3.0,355.0,19,25,21,303.0
+Aston Martin Lagonda,AM,DB12 V8,Minicompact Cars,"2-Wheel Drive, Rear",4.0,680.0,15,22,17,394.0
+Aston Martin Lagonda,AM,DBX 707,Standard SUV 4WD,4-Wheel Drive,4.0,707.0,15,20,17,417.0
+Aston Martin Lagonda,AM,DBX V8,Standard SUV 4WD,4-Wheel Drive,4.0,550.0,14,20,16,434.0
+Aston Martin Lagonda,AM,Valour,Two Seaters,"2-Wheel Drive, Rear",5.2,715.0,12,18,14,486.0
+BMW,BMW,228i Gran Coupe,Compact Cars,"2-Wheel Drive, Front",2.0,228.0,24,34,28,233.0
+BMW,BMW,228i xDrive Gran Coupe,Compact Cars,All Wheel Drive,2.0,228.0,23,33,27,245.0
+BMW,BMW,230i Coupe,Subcompact Cars,"2-Wheel Drive, Rear",2.0,255.0,26,35,30,220.0
+BMW,BMW,230i xDrive Coupe,Subcompact Cars,All Wheel Drive,2.0,255.0,25,33,28,245.0
+BMW,BMW,330i Sedan,Compact Cars,"2-Wheel Drive, Rear",2.0,255.0,25,34,29,228.0
+BMW,BMW,330i xDrive Sedan,Compact Cars,All Wheel Drive,2.0,255.0,24,33,27,245.0
+BMW,BMW,430i Convertible,Subcompact Cars,"2-Wheel Drive, Rear",2.0,255.0,25,34,28,228.0
+BMW,BMW,430i Coupe,Subcompact Cars,"2-Wheel Drive, Rear",2.0,255.0,25,34,28,228.0
+BMW,BMW,430i Gran Coupe,Compact Cars,"2-Wheel Drive, Rear",2.0,255.0,25,34,28,228.0
+BMW,BMW,430i xDrive Convertible,Subcompact Cars,All Wheel Drive,2.0,255.0,23,33,27,245.0
+BMW,BMW,430i xDrive Coupe,Subcompact Cars,All Wheel Drive,2.0,255.0,23,33,27,245.0
+BMW,BMW,430i xDrive Gran Coupe,Compact Cars,All Wheel Drive,2.0,255.0,23,33,27,245.0
+BMW,BMW,840i Convertible,Subcompact Cars,"2-Wheel Drive, Rear",3.0,335.0,21,29,24,276.0
+BMW,BMW,840i Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,335.0,21,29,24,257.0
+BMW,BMW,840i Gran Coupe,Midsize Cars,"2-Wheel Drive, Rear",3.0,335.0,21,29,24,276.0
+BMW,BMW,840i xDrive Convertible,Subcompact Cars,All Wheel Drive,3.0,335.0,21,29,24,280.0
+BMW,BMW,840i xDrive Coupe,Subcompact Cars,All Wheel Drive,3.0,335.0,21,29,24,253.0
+BMW,BMW,840i xDrive Gran Coupe,Midsize Cars,All Wheel Drive,3.0,335.0,21,29,24,280.0
+BMW,BMW,ALPINA B8 Gran Coupe,Midsize Cars,All Wheel Drive,4.4,612.0,17,24,19,354.0
+BMW,Mini,COOPER CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Front",1.5,134.0,29,38,32,200.0
+BMW,Mini,COOPER CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Front",1.5,134.0,27,38,31,208.0
+BMW,Mini,COOPER COUNTRYMAN,Midsize Cars,"2-Wheel Drive, Front",1.5,134.0,26,32,28,234.0
+BMW,Mini,COOPER COUNTRYMAN ALL4,Midsize Cars,All Wheel Drive,1.5,134.0,23,31,26,255.0
+BMW,Mini,COOPER HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",1.5,134.0,29,38,32,200.0
+BMW,Mini,COOPER HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",1.5,134.0,27,38,31,208.0
+BMW,Mini,COOPER HARDTOP 4 DOOR,Subcompact Cars,"2-Wheel Drive, Front",1.5,134.0,29,38,32,200.0
+BMW,Mini,COOPER HARDTOP 4 DOOR,Subcompact Cars,"2-Wheel Drive, Front",1.5,134.0,27,38,31,208.0
+BMW,Mini,COOPER S CLUBMAN,Midsize Cars,"2-Wheel Drive, Front",2.0,189.0,25,35,29,217.0
+BMW,Mini,COOPER S CLUBMAN ALL4,Midsize Cars,All Wheel Drive,2.0,189.0,23,32,27,245.0
+BMW,Mini,COOPER S CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Front",2.0,189.0,27,36,30,217.0
+BMW,Mini,COOPER S CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Front",2.0,189.0,23,33,27,246.0
+BMW,Mini,COOPER S COUNTRYMAN,Midsize Cars,"2-Wheel Drive, Front",2.0,189.0,24,33,28,239.0
+BMW,Mini,COOPER S COUNTRYMAN ALL4,Midsize Cars,All Wheel Drive,2.0,189.0,23,31,26,245.0
+BMW,Mini,COOPER S HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,189.0,28,38,31,205.0
+BMW,Mini,COOPER S HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,189.0,23,33,27,252.0
+BMW,Mini,COOPER S HARDTOP 4 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,189.0,28,38,31,205.0
+BMW,Mini,COOPER S HARDTOP 4 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,189.0,23,33,27,252.0
+BMW,Mini,JCW COUNTRYMAN ALL4,Midsize Cars,All Wheel Drive,2.0,302.0,24,30,26,245.0
+BMW,Mini,JOHN COOPER WORKS CLUBMAN ALL4,Midsize Cars,All Wheel Drive,2.0,302.0,23,31,26,245.0
+BMW,Mini,JOHN COOPER WORKS CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Front",2.0,228.0,25,33,28,233.0
+BMW,Mini,JOHN COOPER WORKS HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,228.0,26,35,29,220.0
+BMW,Mini,JOHN COOPER WORKS HARDTOP 2 DOOR,Subcompact Cars,"2-Wheel Drive, Front",2.0,228.0,22,32,26,252.0
+BMW,BMW,M2 Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,453.0,16,24,19,359.0
+BMW,BMW,M2 Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,453.0,16,23,19,364.0
+BMW,BMW,M235i xDrive Gran Coupe,Compact Cars,All Wheel Drive,2.0,302.0,24,33,27,245.0
+BMW,BMW,M240i Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,382.0,22,32,26,257.0
+BMW,BMW,M240i xDrive Coupe,Subcompact Cars,All Wheel Drive,3.0,382.0,23,32,26,253.0
+BMW,BMW,M3 CS Sedan,Compact Cars,All Wheel Drive,3.0,543.0,15,22,18,369.0
+BMW,BMW,M3 Competition M xDrive Sedan,Compact Cars,All Wheel Drive,3.0,503.0,16,22,18,369.0
+BMW,BMW,M3 Competition Sedan,Compact Cars,"2-Wheel Drive, Rear",3.0,503.0,16,23,19,364.0
+BMW,BMW,M3 Sedan,Compact Cars,"2-Wheel Drive, Rear",3.0,473.0,16,23,19,359.0
+BMW,BMW,M4 Competition Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,503.0,16,23,19,364.0
+BMW,BMW,M4 Competition M xDrive Coupe,Subcompact Cars,All Wheel Drive,3.0,503.0,16,22,18,369.0
+BMW,BMW,M4 Coupe,Subcompact Cars,"2-Wheel Drive, Rear",3.0,473.0,16,23,19,359.0
+BMW,BMW,M4CompetitionMxDriveConvertible,Subcompact Cars,All Wheel Drive,3.0,503.0,16,23,18,374.0
+BMW,BMW,M8 Competition Convertible,Subcompact Cars,All Wheel Drive,4.4,617.0,15,22,17,401.0
+BMW,BMW,M8 Competition Coupe,Subcompact Cars,All Wheel Drive,4.4,617.0,15,22,17,401.0
+BMW,BMW,M8 Competition Gran Coupe,Midsize Cars,All Wheel Drive,4.4,617.0,15,22,17,401.0
+BMW,BMW,M850i xDrive Convertible,Subcompact Cars,All Wheel Drive,4.4,523.0,17,24,19,354.0
+BMW,BMW,M850i xDrive Coupe,Subcompact Cars,All Wheel Drive,4.4,523.0,17,24,19,352.0
+BMW,BMW,M850i xDrive Gran Coupe,Midsize Cars,All Wheel Drive,4.4,523.0,17,24,19,354.0
+BMW,Toyota,Supra 2.0,Two Seaters,"2-Wheel Drive, Rear",2.0,255.0,25,31,27,239.0
+BMW,Toyota,Supra 3.0,Two Seaters,"2-Wheel Drive, Rear",3.0,382.0,23,31,26,255.0
+BMW,Toyota,Supra 3.0,Two Seaters,"2-Wheel Drive, Rear",3.0,382.0,19,27,21,314.0
+BMW,BMW,X1 M35i,Small SUV 4WD,All Wheel Drive,2.0,312.0,23,31,26,238.0
+BMW,BMW,X1 xDrive28i,Small SUV 4WD,All Wheel Drive,2.0,241.0,25,34,28,238.0
+BMW,BMW,X2 M35i,Small SUV 4WD,All Wheel Drive,2.0,312.0,23,32,26,238.0
+BMW,BMW,X2 xDrive28i,Small SUV 4WD,All Wheel Drive,2.0,241.0,24,33,28,238.0
+BMW,BMW,X3 M,Small SUV 4WD,All Wheel Drive,3.0,473.0,15,20,17,404.0
+BMW,BMW,X3 M Competition,Small SUV 4WD,All Wheel Drive,3.0,503.0,15,20,17,404.0
+BMW,BMW,X3 sDrive30i,Small SUV 2WD,"2-Wheel Drive, Rear",2.0,248.0,23,29,25,264.0
+BMW,BMW,X3 xDrive30i,Small SUV 4WD,All Wheel Drive,2.0,248.0,21,28,24,278.0
+BMW,BMW,X4 M,Small SUV 4WD,All Wheel Drive,3.0,473.0,15,20,17,404.0
+BMW,BMW,X4 M Competition,Small SUV 4WD,All Wheel Drive,3.0,503.0,15,20,17,404.0
+BMW,BMW,X4 xDrive30i,Small SUV 4WD,All Wheel Drive,2.0,248.0,21,28,24,278.0
+BMW,BMW,Z4 M40i,Two Seaters,"2-Wheel Drive, Rear",3.0,382.0,23,31,26,257.0
+BMW,BMW,Z4 sDrive30i,Two Seaters,"2-Wheel Drive, Rear",2.0,255.0,25,33,28,220.0
+FCA US LLC,RAM,1500 Classic 4X2,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.6,305.0,17,25,20,347.0
+FCA US LLC,RAM,1500 Classic 4X2,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.7,395.0,15,21,17,409.0
+FCA US LLC,RAM,1500 Classic 4X4,Standard Pick-up Trucks 4WD,4-Wheel Drive,3.6,305.0,16,23,19,365.0
+FCA US LLC,RAM,1500 Classic 4X4,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.7,395.0,15,20,17,405.0
+FCA US LLC,RAM,1500 TRX 4x4,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,702.0,10,14,12,593.0
+FCA US LLC,RAM,1500 TRX 4x4,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,702.0,10,14,12,593.0
+FCA US LLC,RAM,1500 TRX 4x4,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,702.0,10,14,12,593.0
+FCA US LLC,Jeep,Compass 4X4,Small SUV 4WD,All Wheel Drive,2.0,270.0,24,32,27,247.0
+FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,All Wheel Drive,3.6,295.0,18,25,21,327.0
+FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,All Wheel Drive,5.7,357.0,14,22,17,415.0
+FCA US LLC,Dodge,Durango RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.6,295.0,19,26,21,317.0
+FCA US LLC,Dodge,Durango RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.7,357.0,14,22,17,409.0
+FCA US LLC,Dodge,Durango SRT AWD,Standard SUV 4WD,All Wheel Drive,6.2,710.0,12,17,13,521.0
+FCA US LLC,Dodge,Durango SRT AWD,Standard SUV 4WD,All Wheel Drive,6.2,710.0,12,17,13,521.0
+FCA US LLC,Dodge,Durango SRT AWD,Standard SUV 4WD,All Wheel Drive,6.4,475.0,13,19,15,459.0
+FCA US LLC,Dodge,Durango SRT AWD,Standard SUV 4WD,All Wheel Drive,6.4,475.0,13,19,15,459.0
+FCA US LLC,ALFA ROMEO,Giulia,Midsize Cars,"2-Wheel Drive, Rear",2.0,280.0,24,33,27,249.0
+FCA US LLC,ALFA ROMEO,Giulia,Midsize Cars,"2-Wheel Drive, Rear",2.9,505.0,17,25,20,335.0
+FCA US LLC,ALFA ROMEO,Giulia AWD,Midsize Cars,All Wheel Drive,2.0,280.0,23,31,26,262.0
+FCA US LLC,Jeep,Gladiator 4X4,Standard Pick-up Trucks 4WD,4-Wheel Drive,3.6,285.0,17,22,19,383.0
+FCA US LLC,Jeep,Gladiator 4X4,Standard Pick-up Trucks 4WD,4-Wheel Drive,3.6,285.0,16,21,18,387.0
+FCA US LLC,Jeep,Grand Cherokee 4X2,Standard SUV 2WD,"2-Wheel Drive, Rear",3.6,295.0,19,26,22,310.0
+FCA US LLC,Jeep,Grand Cherokee 4X4,Standard SUV 4WD,All Wheel Drive,3.6,295.0,19,26,22,315.0
+FCA US LLC,Jeep,Grand Cherokee L 4X2,Standard SUV 2WD,"2-Wheel Drive, Rear",3.6,295.0,19,26,21,317.0
+FCA US LLC,Jeep,Grand Cherokee L 4X4,Standard SUV 4WD,All Wheel Drive,3.6,295.0,18,25,21,327.0
+FCA US LLC,Jeep,Grand Cherokee L 4X4,Standard SUV 4WD,All Wheel Drive,5.7,357.0,14,22,17,415.0
+FCA US LLC,Jeep,Grand Wagoneer 4x4,Standard SUV 4WD,All Wheel Drive,3.0,510.0,14,20,17,386.0
+FCA US LLC,Jeep,Grand Wagoneer L 4x4,Standard SUV 4WD,All Wheel Drive,3.0,510.0,14,20,17,450.0
+FCA US LLC,Dodge,Hornet AWD,Small SUV 4WD,All Wheel Drive,2.0,200.0,21,29,24,280.0
+FCA US LLC,Chrysler,Pacifica,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.6,285.0,19,28,22,306.0
+FCA US LLC,Chrysler,Pacifica AWD,"Special Purpose Vehicle, minivan 4WD",All Wheel Drive,3.6,285.0,17,25,20,347.0
+FCA US LLC,ALFA ROMEO,Stelvio,Small SUV 2WD,"2-Wheel Drive, Rear",2.0,280.0,22,29,25,249.0
+FCA US LLC,ALFA ROMEO,Stelvio AWD,Small SUV 4WD,All Wheel Drive,2.0,280.0,22,28,24,275.0
+FCA US LLC,ALFA ROMEO,Stelvio AWD,Small SUV 4WD,All Wheel Drive,2.9,505.0,17,23,19,357.0
+FCA US LLC,Chrysler,Voyager,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.6,285.0,19,28,22,306.0
+FCA US LLC,Jeep,Wagoneer 4x2,Standard SUV 2WD,"2-Wheel Drive, Rear",3.0,420.0,17,24,20,349.0
+FCA US LLC,Jeep,Wagoneer 4x4,Standard SUV 4WD,All Wheel Drive,3.0,420.0,16,23,19,365.0
+FCA US LLC,Jeep,Wagoneer L 4x2,Standard SUV 2WD,"2-Wheel Drive, Rear",3.0,420.0,17,24,20,349.0
+FCA US LLC,Jeep,Wagoneer L 4x4,Standard SUV 4WD,All Wheel Drive,3.0,420.0,16,23,19,386.0
+FCA US LLC,Jeep,Wrangler 2dr 4X4,Small SUV 4WD,4-Wheel Drive,2.0,270.0,20,23,21,311.0
+FCA US LLC,Jeep,Wrangler 2dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,18,24,20,346.0
+FCA US LLC,Jeep,Wrangler 2dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,17,23,19,360.0
+FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,4-Wheel Drive,2.0,270.0,20,22,21,311.0
+FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,18,23,20,346.0
+FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,16,22,19,360.0
+FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,4-Wheel Drive,6.4,470.0,13,16,14,498.0
+FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,4-Wheel Drive,6.4,470.0,13,16,14,498.0
+FCA US LLC,Jeep,Wrangler Rubicon 2dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,16,20,18,346.0
+FCA US LLC,Jeep,Wrangler Rubicon 4dr 4X4,Small SUV 4WD,4-Wheel Drive,3.6,285.0,16,19,17,383.0
+Ferrari S.p.A.,Ferrari,812 Competizione,Two Seaters,"2-Wheel Drive, Rear",6.5,814.0,12,16,14,512.0
+Ferrari S.p.A.,Ferrari,812 Competizione A,Two Seaters,"2-Wheel Drive, Rear",6.5,814.0,12,16,14,510.0
+Ferrari S.p.A.,Ferrari,Ferrari Daytona SP3,Two Seaters,"2-Wheel Drive, Rear",6.5,823.0,12,16,13,520.0
+Ferrari S.p.A.,Ferrari,Purosangue,Compact Cars,All Wheel Drive,6.5,709.0,11,15,12,564.0
+Ferrari S.p.A.,Ferrari,Roma,Subcompact Cars,"2-Wheel Drive, Rear",3.9,612.0,17,22,19,364.0
+Ferrari S.p.A.,Ferrari,Roma Spider,Minicompact Cars,"2-Wheel Drive, Rear",3.9,612.0,17,22,19,360.0
+Ford Motor Company,Lincoln,AVIATOR AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.0,400.0,17,24,20,347.0
+Ford Motor Company,Lincoln,AVIATOR RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.0,400.0,18,26,21,326.0
+Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,20,21,20,397.0
+Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,20,21,20,397.0
+Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,20,21,20,315.0
+Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,20,21,20,315.0
+Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,19,21,20,361.0
+Ford Motor Company,Ford,BRONCO BADLANDS 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,16,18,17,397.0
+Ford Motor Company,Ford,BRONCO BADLANDS 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,17,17,17,378.0
+Ford Motor Company,Ford,BRONCO BADLANDS 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,17,17,17,378.0
+Ford Motor Company,Ford,BRONCO BLACK DIAMOND 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,16,18,17,397.0
+Ford Motor Company,Ford,BRONCO BLACK DIAMOND 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,18,18,18,315.0
+Ford Motor Company,Ford,BRONCO BLACK DIAMOND 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,18,18,18,361.0
+Ford Motor Company,Ford,BRONCO RAPTOR 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.0,418.0,15,16,15,430.0
+Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,16,18,17,397.0
+Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,18,17,18,327.0
+Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.3,275.0,18,17,18,327.0
+Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,17,17,17,392.0
+Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.7,315.0,17,17,17,392.0
+Ford Motor Company,Ford,BRONCO SPORT 4WD,Small SUV 4WD,All Wheel Drive,1.5,175.0,25,29,26,242.0
+Ford Motor Company,Ford,BRONCO SPORT 4WD,Small SUV 4WD,Part-time 4-Wheel Drive,2.0,250.0,21,26,23,286.0
+Ford Motor Company,Lincoln,CORSAIR AWD,Small SUV 4WD,All Wheel Drive,2.0,250.0,21,28,24,283.0
+Ford Motor Company,Lincoln,CORSAIR FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,250.0,22,30,25,268.0
+Ford Motor Company,Ford,EDGE AWD,Small SUV 4WD,All Wheel Drive,2.7,335.0,19,25,21,321.0
+Ford Motor Company,Ford,EDGE AWD,Small SUV 4WD,All Wheel Drive,2.0,250.0,21,28,23,285.0
+Ford Motor Company,Ford,EDGE AWD,Small SUV 4WD,All Wheel Drive,2.0,250.0,21,28,23,285.0
+Ford Motor Company,Ford,ESCAPE AWD,Small SUV 4WD,All Wheel Drive,1.5,170.0,26,32,28,226.0
+Ford Motor Company,Ford,ESCAPE AWD,Small SUV 4WD,All Wheel Drive,2.0,250.0,23,31,26,250.0
+Ford Motor Company,Ford,ESCAPE FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,170.0,27,34,30,220.0
+Ford Motor Company,Ford,EXPEDITION 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.5,380.0,17,23,19,351.0
+Ford Motor Company,Ford,EXPEDITION 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.5,380.0,16,22,18,374.0
+Ford Motor Company,Ford,EXPEDITION 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.5,380.0,16,22,18,374.0
+Ford Motor Company,Ford,EXPEDITION TIMBERLINE 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.5,380.0,16,19,17,383.0
+Ford Motor Company,Ford,EXPLORER AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,2.3,300.0,20,27,23,294.0
+Ford Motor Company,Ford,EXPLORER AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.0,400.0,18,24,20,334.0
+Ford Motor Company,Ford,EXPLORER AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.0,400.0,18,24,20,338.0
+Ford Motor Company,Ford,EXPLORER FFV AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.3,282.0,17,24,20,389.0
+Ford Motor Company,Ford,EXPLORER RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",2.3,300.0,21,28,24,281.0
+Ford Motor Company,Ford,EXPLORER RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.0,400.0,18,26,21,335.0
+Ford Motor Company,Ford,EXPLORER RWD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.0,400.0,18,25,20,336.0
+Ford Motor Company,Ford,EXPLORER TIMBERLINE AWD,Standard SUV 4WD,Part-time 4-Wheel Drive,2.3,300.0,19,22,21,315.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.0,400.0,16,24,19,365.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.0,400.0,16,24,19,365.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.5,400.0,17,25,20,359.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.5,400.0,17,25,20,359.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,325.0,19,25,21,325.0
+Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,325.0,19,25,21,325.0
+Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.7,325.0,18,23,20,335.0
+Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.0,400.0,16,24,19,365.0
+Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.0,400.0,16,24,19,365.0
+Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.5,400.0,16,24,19,361.0
+Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.5,400.0,16,21,18,369.0
+Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.0,400.0,15,20,17,387.0
+Ford Motor Company,Ford,F150 RAPTOR 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.5,450.0,14,18,16,437.0
+Ford Motor Company,Ford,F150 RAPTOR R 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.2,700.0,10,15,12,589.0
+Ford Motor Company,Ford,MAVERICK AWD,Small Pick-up Trucks 4WD,All Wheel Drive,2.0,250.0,22,29,25,270.0
+Ford Motor Company,Ford,MAVERICK FWD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Front",2.0,250.0,23,30,26,258.0
+Ford Motor Company,Ford,MAVERICK TREMOR AWD,Small Pick-up Trucks 4WD,All Wheel Drive,2.0,250.0,20,24,21,306.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,15,23,18,383.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,15,23,18,383.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,16,24,19,360.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,16,24,19,360.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",2.3,300.0,22,33,26,254.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,14,23,17,404.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,14,23,17,404.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,15,24,18,376.0
+Ford Motor Company,Ford,MUSTANG,Subcompact Cars,"2-Wheel Drive, Rear",5.0,480.0,15,24,18,376.0
+Ford Motor Company,Ford,MUSTANG DARK HORSE,Subcompact Cars,"2-Wheel Drive, Rear",5.0,486.0,14,22,17,410.0
+Ford Motor Company,Ford,MUSTANG DARK HORSE,Subcompact Cars,"2-Wheel Drive, Rear",5.0,486.0,14,22,17,420.0
+Ford Motor Company,Ford,MUSTANG PERFORMANCE PACK,Subcompact Cars,"2-Wheel Drive, Rear",2.3,300.0,21,29,24,278.0
+Ford Motor Company,Lincoln,NAUTILUS AWD,Small SUV 4WD,All Wheel Drive,2.0,250.0,21,29,24,277.0
+Ford Motor Company,Lincoln,NAVIGATOR 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.5,380.0,16,22,18,387.0
+Ford Motor Company,Ford,RANGER 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.3,275.0,21,25,22,293.0
+Ford Motor Company,Ford,RANGER 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.7,315.0,19,23,20,336.0
+Ford Motor Company,Ford,RANGER 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.3,275.0,20,24,22,310.0
+Ford Motor Company,Ford,RANGER RAPTOR 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.0,418.0,16,18,17,399.0
+General Motors LLC,GMC,ACADIA AWD,Standard SUV 4WD,All Wheel Drive,2.5,328.0,19,24,21,303.0
+General Motors LLC,GMC,ACADIA FWD,Standard SUV 2WD,"2-Wheel Drive, Front",2.5,328.0,20,27,23,286.0
+General Motors LLC,Chevrolet,BLAZER AWD,Small SUV 4WD,All Wheel Drive,2.0,237.0,22,27,24,274.0
+General Motors LLC,Chevrolet,BLAZER AWD,Small SUV 4WD,All Wheel Drive,3.6,308.0,18,26,21,325.0
+General Motors LLC,Chevrolet,BLAZER FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,237.0,22,29,25,264.0
+General Motors LLC,Chevrolet,BLAZER FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.6,308.0,19,26,22,312.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",3.6,335.0,16,26,20,348.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",3.6,335.0,16,26,20,348.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,650.0,13,21,16,467.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,650.0,13,21,16,467.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,650.0,14,20,16,438.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,650.0,14,20,16,438.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,455.0,16,26,20,361.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",6.2,455.0,16,24,19,379.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",3.6,335.0,18,29,22,309.0
+General Motors LLC,Chevrolet,CAMARO,Subcompact Cars,"2-Wheel Drive, Rear",3.6,335.0,18,29,22,309.0
+General Motors LLC,GMC,CANYON 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,19,23,20,312.0
+General Motors LLC,GMC,CANYON 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,18,22,19,341.0
+General Motors LLC,GMC,CANYON 4WD MUD TERRAIN TIRES,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,20,18,353.0
+General Motors LLC,GMC,CANYON AT4X 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,17,17,376.0
+General Motors LLC,GMC,CANYON AT4X AEV 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,16,16,16,400.0
+General Motors LLC,Chevrolet,COLORADO 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,19,24,21,312.0
+General Motors LLC,Chevrolet,COLORADO 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,237.0,20,24,22,306.0
+General Motors LLC,Chevrolet,COLORADO 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,18,23,20,341.0
+General Motors LLC,Chevrolet,COLORADO 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,237.0,18,22,20,320.0
+General Motors LLC,Chevrolet,COLORADO 4WD MUD TERRAIN TIRES,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,20,18,353.0
+General Motors LLC,Chevrolet,COLORADO ZR2 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,17,17,376.0
+General Motors LLC,Chevrolet,COLORADO ZR2 BISON 4WD,Small Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,16,16,16,400.0
+General Motors LLC,Chevrolet,CORVETTE,Two Seaters,"2-Wheel Drive, Rear",6.2,495.0,16,25,19,372.0
+General Motors LLC,Chevrolet,CORVETTE Z06,Two Seaters,"2-Wheel Drive, Rear",5.5,670.0,12,21,15,501.0
+General Motors LLC,Chevrolet,CORVETTE Z06 CARBON AERO,Two Seaters,"2-Wheel Drive, Rear",5.5,670.0,12,19,14,530.0
+General Motors LLC,Cadillac,CT4,Compact Cars,"2-Wheel Drive, Rear",2.7,310.0,21,31,25,269.0
+General Motors LLC,Cadillac,CT4,Compact Cars,"2-Wheel Drive, Rear",2.0,237.0,22,32,26,259.0
+General Motors LLC,Cadillac,CT4 AWD,Compact Cars,All Wheel Drive,2.0,237.0,21,31,25,267.0
+General Motors LLC,Cadillac,CT4 AWD,Compact Cars,All Wheel Drive,2.7,310.0,21,29,24,281.0
+General Motors LLC,Cadillac,CT4 V,Compact Cars,"2-Wheel Drive, Rear",3.6,472.0,16,24,19,370.0
+General Motors LLC,Cadillac,CT4 V,Compact Cars,"2-Wheel Drive, Rear",3.6,472.0,15,23,18,396.0
+General Motors LLC,Cadillac,CT4 V,Compact Cars,"2-Wheel Drive, Rear",2.7,325.0,20,29,23,291.0
+General Motors LLC,Cadillac,CT4 V AWD,Compact Cars,All Wheel Drive,2.7,325.0,20,28,23,287.0
+General Motors LLC,Cadillac,CT5,Midsize Cars,"2-Wheel Drive, Rear",3.0,335.0,19,27,22,310.0
+General Motors LLC,Cadillac,CT5,Midsize Cars,"2-Wheel Drive, Rear",2.0,237.0,23,33,27,250.0
+General Motors LLC,Cadillac,CT5 AWD,Midsize Cars,All Wheel Drive,3.0,335.0,18,26,21,318.0
+General Motors LLC,Cadillac,CT5 AWD,Midsize Cars,All Wheel Drive,2.0,237.0,22,30,25,270.0
+General Motors LLC,Cadillac,CT5 V,Midsize Cars,"2-Wheel Drive, Rear",3.0,335.0,18,27,21,310.0
+General Motors LLC,Cadillac,CT5 V,Midsize Cars,"2-Wheel Drive, Rear",6.2,668.0,13,21,15,473.0
+General Motors LLC,Cadillac,CT5 V,Midsize Cars,"2-Wheel Drive, Rear",6.2,668.0,13,21,16,453.0
+General Motors LLC,Cadillac,CT5 V AWD,Midsize Cars,All Wheel Drive,3.0,335.0,18,26,21,318.0
+General Motors LLC,Buick,ENCLAVE AWD,Standard SUV 4WD,All Wheel Drive,3.6,310.0,17,25,20,349.0
+General Motors LLC,Buick,ENCLAVE FWD,Standard SUV 2WD,"2-Wheel Drive, Front",3.6,310.0,18,26,21,332.0
+General Motors LLC,Buick,ENCORE GX AWD,Small SUV 4WD,All Wheel Drive,1.3,155.0,26,28,27,240.0
+General Motors LLC,Buick,ENCORE GX FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.2,137.0,30,31,30,204.0
+General Motors LLC,Buick,ENCORE GX FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.3,155.0,29,31,30,206.0
+General Motors LLC,Buick,ENVISION AWD,Small SUV 4WD,All Wheel Drive,2.0,228.0,22,28,24,264.0
+General Motors LLC,Buick,ENVISTA,Small Station Wagons,"2-Wheel Drive, Front",1.2,137.0,28,32,30,213.0
+General Motors LLC,Chevrolet,EQUINOX AWD,Small SUV 4WD,All Wheel Drive,1.5,175.0,24,30,26,249.0
+General Motors LLC,Chevrolet,EQUINOX FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,175.0,26,31,28,232.0
+General Motors LLC,Cadillac,ESCALADE 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,19,16,399.0
+General Motors LLC,Cadillac,ESCALADE 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,19,16,399.0
+General Motors LLC,Cadillac,ESCALADE 4WD,Standard SUV 4WD,4-Wheel Drive,6.2,420.0,14,18,16,425.0
+General Motors LLC,Cadillac,ESCALADE V AWD,Standard SUV 4WD,4-Wheel Drive,6.2,682.0,11,16,13,523.0
+General Motors LLC,Cadillac,ESCALADE V AWD,Standard SUV 4WD,4-Wheel Drive,6.2,682.0,11,16,13,523.0
+General Motors LLC,Chevrolet,MALIBU,Midsize Cars,"2-Wheel Drive, Front",1.5,163.0,28,36,31,212.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,20,18,364.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,20,18,368.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,21,18,365.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,21,18,365.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,18,22,20,325.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,18,22,20,325.0
+General Motors LLC,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,17,21,19,334.0
+General Motors LLC,GMC,SIERRA 2WD CAB CHASSIS,Special Purpose Vehicle cab chassis,"2-Wheel Drive, Rear",5.3,355.0,14,17,15,420.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,15,19,16,411.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,377.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,377.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,20,17,383.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,20,17,383.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,18,17,364.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,20,18,349.0
+General Motors LLC,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,20,18,349.0
+General Motors LLC,GMC,SIERRA 4WD AT4X,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,14,16,15,435.0
+General Motors LLC,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,14,17,15,432.0
+General Motors LLC,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,18,16,414.0
+General Motors LLC,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,18,16,414.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,20,18,364.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,15,19,16,408.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,21,18,360.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,21,18,360.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,22,18,362.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.3,355.0,16,22,18,362.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,18,22,20,325.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,18,22,20,325.0
+General Motors LLC,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.7,310.0,17,21,19,334.0
+General Motors LLC,Chevrolet,SILVERADO 2WD CAB CHASSIS,Special Purpose Vehicle cab chassis,"2-Wheel Drive, Rear",5.3,355.0,15,18,16,420.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,15,20,17,398.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,15,20,17,398.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,16,408.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,376.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,20,17,380.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,20,17,380.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,19,18,347.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,17,19,18,347.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,18,21,19,342.0
+General Motors LLC,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,18,21,19,342.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,17,397.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,14,17,15,432.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,19,16,408.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,18,16,408.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,5.3,355.0,15,18,16,413.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,16,17,17,377.0
+General Motors LLC,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.7,310.0,16,17,16,382.0
+General Motors LLC,Chevrolet,SILVERADO 4WD ZR2,Standard Pick-up Trucks 4WD,4-Wheel Drive,6.2,420.0,14,17,15,435.0
+General Motors LLC,Chevrolet,SUBURBAN 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.3,355.0,15,20,17,376.0
+General Motors LLC,Chevrolet,SUBURBAN 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,20,16,393.0
+General Motors LLC,Chevrolet,SUBURBAN 4WD,Standard SUV 4WD,4-Wheel Drive,5.3,355.0,15,18,16,397.0
+General Motors LLC,Chevrolet,SUBURBAN 4WD,Standard SUV 4WD,4-Wheel Drive,6.2,420.0,14,18,16,425.0
+General Motors LLC,Chevrolet,TAHOE 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.3,355.0,15,20,17,376.0
+General Motors LLC,Chevrolet,TAHOE 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,20,16,393.0
+General Motors LLC,Chevrolet,TAHOE 4WD,Standard SUV 4WD,4-Wheel Drive,5.3,355.0,15,20,17,390.0
+General Motors LLC,Chevrolet,TAHOE 4WD,Standard SUV 4WD,4-Wheel Drive,5.3,355.0,14,18,16,413.0
+General Motors LLC,Chevrolet,TAHOE 4WD,Standard SUV 4WD,4-Wheel Drive,6.2,420.0,14,18,16,425.0
+General Motors LLC,GMC,TERRAIN AWD,Small SUV 4WD,All Wheel Drive,1.5,175.0,23,28,25,259.0
+General Motors LLC,GMC,TERRAIN FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,175.0,24,29,26,241.0
+General Motors LLC,Chevrolet,TRAILBLAZER AWD,Small SUV 4WD,All Wheel Drive,1.3,155.0,26,29,27,230.0
+General Motors LLC,Chevrolet,TRAILBLAZER FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.2,137.0,30,31,30,204.0
+General Motors LLC,Chevrolet,TRAILBLAZER FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.3,155.0,29,33,31,204.0
+General Motors LLC,Chevrolet,TRAVERSE AWD,Standard SUV 4WD,All Wheel Drive,2.5,328.0,19,24,21,303.0
+General Motors LLC,Chevrolet,TRAVERSE FWD,Standard SUV 2WD,"2-Wheel Drive, Front",2.5,328.0,20,27,23,286.0
+General Motors LLC,Chevrolet,TRAVERSE LIMITED AWD,Standard SUV 4WD,All Wheel Drive,3.6,310.0,17,25,20,349.0
+General Motors LLC,Chevrolet,TRAVERSE LIMITED FWD,Standard SUV 2WD,"2-Wheel Drive, Front",3.6,310.0,18,26,21,332.0
+General Motors LLC,Chevrolet,TRAX,Small Station Wagons,"2-Wheel Drive, Front",1.2,137.0,28,32,30,214.0
+General Motors LLC,Cadillac,XT4 AWD,Small SUV 4WD,All Wheel Drive,2.0,235.0,23,28,25,268.0
+General Motors LLC,Cadillac,XT4 FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,235.0,24,29,26,254.0
+General Motors LLC,Cadillac,XT5 AWD,Small SUV 4WD,All Wheel Drive,2.0,237.0,21,27,23,282.0
+General Motors LLC,Cadillac,XT5 AWD,Small SUV 4WD,All Wheel Drive,3.6,310.0,18,26,21,325.0
+General Motors LLC,Cadillac,XT5 FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,237.0,22,29,24,265.0
+General Motors LLC,Cadillac,XT5 FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.6,310.0,19,26,21,320.0
+General Motors LLC,Cadillac,XT5 HEARSE AWD,Special Purpose Vehicle 4WD,All Wheel Drive,2.0,237.0,20,23,21,315.0
+General Motors LLC,Cadillac,XT5 HEARSE FWD,Special Purpose Vehicle 2WD,"2-Wheel Drive, Front",2.0,237.0,20,23,21,315.0
+General Motors LLC,Cadillac,XT5 LIMO AWD,Special Purpose Vehicle 4WD,All Wheel Drive,2.0,237.0,20,23,21,315.0
+General Motors LLC,Cadillac,XT5 LIMO FWD,Special Purpose Vehicle 2WD,"2-Wheel Drive, Front",2.0,237.0,20,23,21,315.0
+General Motors LLC,Cadillac,XT6 AWD,Small SUV 4WD,All Wheel Drive,2.0,237.0,21,26,23,282.0
+General Motors LLC,Cadillac,XT6 AWD,Small SUV 4WD,All Wheel Drive,3.6,310.0,18,25,21,332.0
+General Motors LLC,Cadillac,XT6 FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,237.0,21,27,23,284.0
+General Motors LLC,Cadillac,XT6 FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.6,310.0,19,26,21,320.0
+General Motors LLC,GMC,YUKON 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.3,355.0,15,20,17,376.0
+General Motors LLC,GMC,YUKON 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,20,16,393.0
+General Motors LLC,GMC,YUKON 4WD,Standard SUV 4WD,4-Wheel Drive,5.3,355.0,15,20,17,390.0
+General Motors LLC,GMC,YUKON 4WD,Standard SUV 4WD,4-Wheel Drive,6.2,420.0,14,18,16,425.0
+General Motors LLC,GMC,YUKON XL 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.3,355.0,15,20,17,376.0
+General Motors LLC,GMC,YUKON XL 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",6.2,420.0,14,19,16,413.0
+General Motors LLC,GMC,YUKON XL 4WD,Standard SUV 4WD,4-Wheel Drive,5.3,355.0,15,18,16,397.0
+General Motors LLC,GMC,YUKON XL 4WD,Standard SUV 4WD,4-Wheel Drive,6.2,420.0,14,18,16,425.0
+Hyundai Motor Company,HYUNDAI,Elantra,Midsize Cars,"2-Wheel Drive, Front",2.0,147.0,31,40,34,192.0
+Hyundai Motor Company,HYUNDAI,Elantra,Midsize Cars,"2-Wheel Drive, Front",2.0,147.0,32,41,36,182.0
+Hyundai Motor Company,HYUNDAI,Elantra,Midsize Cars,"2-Wheel Drive, Front",1.6,195.0,28,35,31,216.0
+Hyundai Motor Company,HYUNDAI,Elantra N,Midsize Cars,"2-Wheel Drive, Front",2.0,280.0,20,27,23,308.0
+Hyundai Motor Company,HYUNDAI,Elantra N,Midsize Cars,"2-Wheel Drive, Front",2.0,280.0,21,29,24,284.0
+Hyundai Motor Company,GENESIS,G70 AWD,Compact Cars,All Wheel Drive,3.3,368.0,17,26,20,358.0
+Hyundai Motor Company,GENESIS,G70 AWD,Compact Cars,All Wheel Drive,2.5,300.0,20,28,23,305.0
+Hyundai Motor Company,GENESIS,G70 RWD,Compact Cars,"2-Wheel Drive, Rear",3.3,368.0,18,27,21,351.0
+Hyundai Motor Company,GENESIS,G70 RWD,Compact Cars,"2-Wheel Drive, Rear",2.5,300.0,21,29,24,293.0
+Hyundai Motor Company,GENESIS,G80 AWD,Large Cars,All Wheel Drive,2.5,300.0,22,30,25,272.0
+Hyundai Motor Company,GENESIS,G80 AWD,Large Cars,All Wheel Drive,3.5,375.0,17,25,19,369.0
+Hyundai Motor Company,GENESIS,G90 AWD,Large Cars,All Wheel Drive,3.5,375.0,18,26,21,326.0
+Hyundai Motor Company,GENESIS,GV70 AWD,Small SUV 4WD,All Wheel Drive,2.5,300.0,19,26,22,311.0
+Hyundai Motor Company,GENESIS,GV70 AWD,Small SUV 4WD,All Wheel Drive,2.5,300.0,22,28,24,278.0
+Hyundai Motor Company,GENESIS,GV70 AWD,Small SUV 4WD,All Wheel Drive,3.5,375.0,18,24,20,337.0
+Hyundai Motor Company,GENESIS,GV80 AWD,Standard SUV 4WD,All Wheel Drive,2.5,300.0,20,24,22,302.0
+Hyundai Motor Company,GENESIS,GV80 AWD,Standard SUV 4WD,All Wheel Drive,3.5,375.0,18,23,20,344.0
+Hyundai Motor Company,HYUNDAI,Kona AWD,Small SUV 4WD,All Wheel Drive,1.6,190.0,24,29,26,244.0
+Hyundai Motor Company,HYUNDAI,Kona AWD,Small SUV 4WD,All Wheel Drive,2.0,147.0,26,29,27,228.0
+Hyundai Motor Company,HYUNDAI,Kona AWD,Small SUV 4WD,All Wheel Drive,2.0,147.0,27,29,28,223.0
+Hyundai Motor Company,HYUNDAI,Kona FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.6,190.0,26,32,28,223.0
+Hyundai Motor Company,HYUNDAI,Kona FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,147.0,28,35,31,207.0
+Hyundai Motor Company,HYUNDAI,Kona FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,147.0,29,34,31,202.0
+Hyundai Motor Company,HYUNDAI,Palisade AWD,Small SUV 4WD,All Wheel Drive,3.8,291.0,19,24,21,320.0
+Hyundai Motor Company,HYUNDAI,Palisade FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.8,291.0,19,26,22,307.0
+Hyundai Motor Company,HYUNDAI,Santa Cruz AWD,Small SUV 4WD,All Wheel Drive,2.5,191.0,21,25,23,289.0
+Hyundai Motor Company,HYUNDAI,Santa Cruz AWD,Small SUV 4WD,All Wheel Drive,2.5,281.0,19,27,22,308.0
+Hyundai Motor Company,HYUNDAI,Santa Cruz FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,191.0,22,26,23,272.0
+Hyundai Motor Company,HYUNDAI,Santa Fe AWD,Small SUV 4WD,All Wheel Drive,2.5,281.0,20,28,23,300.0
+Hyundai Motor Company,HYUNDAI,Santa Fe AWD XRT,Small SUV 4WD,All Wheel Drive,2.5,281.0,19,26,22,312.0
+Hyundai Motor Company,HYUNDAI,Santa Fe FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,281.0,20,29,24,287.0
+Hyundai Motor Company,HYUNDAI,Sonata AWD,Large Cars,All Wheel Drive,2.5,191.0,25,34,28,235.0
+Hyundai Motor Company,HYUNDAI,Sonata FWD,Large Cars,"2-Wheel Drive, Front",2.5,191.0,25,36,29,226.0
+Hyundai Motor Company,HYUNDAI,Sonata FWD,Large Cars,"2-Wheel Drive, Front",2.5,290.0,23,32,27,259.0
+Hyundai Motor Company,HYUNDAI,Tucson AWD,Small SUV 4WD,All Wheel Drive,2.5,188.0,23,29,25,262.0
+Hyundai Motor Company,HYUNDAI,Tucson AWD,Small SUV 4WD,All Wheel Drive,2.5,188.0,23,29,25,262.0
+Hyundai Motor Company,HYUNDAI,Tucson FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,188.0,25,32,28,239.0
+Hyundai Motor Company,HYUNDAI,Venue,Small SUV 2WD,"2-Wheel Drive, Front",1.6,121.0,29,33,31,212.0
+Ineos Automotive Limited,IAL,Grenadier Fieldmaster Edition,Standard SUV 4WD,4-Wheel Drive,2.998,286.0,15,15,15,439.0
+Ineos Automotive Limited,IAL,Grenadier Quartermaster,Standard Pick-up Trucks 4WD,4-Wheel Drive,2.998,286.0,14,14,14,469.0
+Ineos Automotive Limited,IAL,Grenadier Station Wagon,Standard SUV 4WD,4-Wheel Drive,2.998,286.0,15,15,15,439.0
+Ineos Automotive Limited,IAL,Grenadier Trialmaster Edition,Standard SUV 4WD,4-Wheel Drive,2.998,286.0,14,14,14,469.0
+Jaguar Land Rover Limited,Land Rover,Defender 110,Standard SUV 4WD,4-Wheel Drive,2.0,400.0,18,20,19,341.0
+Jaguar Land Rover Limited,Land Rover,Defender 110,Standard SUV 4WD,4-Wheel Drive,5.0,525.0,14,19,16,439.0
+Jaguar Land Rover Limited,Land Rover,Defender 130,Standard SUV 4WD,4-Wheel Drive,5.0,500.0,14,19,16,443.0
+Jaguar Land Rover Limited,Land Rover,Defender 90,Standard SUV 4WD,4-Wheel Drive,2.0,400.0,18,21,19,336.0
+Jaguar Land Rover Limited,Land Rover,Defender 90,Standard SUV 4WD,4-Wheel Drive,5.0,525.0,15,19,16,424.0
+Jaguar Land Rover Limited,Land Rover,Discovery,Standard SUV 4WD,4-Wheel Drive,2.0,400.0,19,24,21,315.0
+Jaguar Land Rover Limited,Land Rover,Discovery Sport,Small SUV 4WD,All Wheel Drive,2.0,249.0,19,23,20,325.0
+Jaguar Land Rover Limited,Jaguar,E-PACE,Small SUV 4WD,All Wheel Drive,2.0,249.0,20,26,23,294.0
+Jaguar Land Rover Limited,Jaguar,F-PACE,Small SUV 4WD,All Wheel Drive,2.0,250.0,22,27,24,283.0
+Jaguar Land Rover Limited,Jaguar,F-PACE SVR,Small SUV 4WD,All Wheel Drive,5.0,550.0,15,21,17,402.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE P450 AWD R-Dynamic Conv,Two Seaters,All Wheel Drive,5.0,450.0,16,24,18,372.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE P450 AWD R-Dynamic Coupe,Two Seaters,All Wheel Drive,5.0,450.0,16,24,18,372.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE P450 RWD Convertible,Two Seaters,"2-Wheel Drive, Rear",5.0,450.0,17,24,19,355.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE P450 RWD Coupe,Two Seaters,"2-Wheel Drive, Rear",5.0,450.0,17,24,19,355.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE R AWD Convertible,Two Seaters,All Wheel Drive,5.0,575.0,16,24,18,372.0
+Jaguar Land Rover Limited,Jaguar,F-TYPE R AWD Coupe,Two Seaters,All Wheel Drive,5.0,575.0,16,24,18,372.0
+Jaguar Land Rover Limited,Land Rover,Range Rover Evoque,Small SUV 4WD,All Wheel Drive,2.0,249.0,20,27,22,301.0
+Jaguar Land Rover Limited,Land Rover,Range Rover Velar,Small SUV 4WD,All Wheel Drive,2.0,250.0,22,26,23,286.0
+Jaguar Land Rover Limited,Jaguar,XF P250,Midsize Cars,"2-Wheel Drive, Rear",2.0,250.0,23,30,26,259.0
+Jaguar Land Rover Limited,Jaguar,XF P300 AWD,Midsize Cars,All Wheel Drive,2.0,300.0,21,29,24,281.0
+Kia Corporation,KIA,Carnival,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.5,290.0,19,26,22,311.0
+Kia Corporation,KIA,Carnival,"Special Purpose Vehicle, minivan 2WD","2-Wheel Drive, Front",3.5,290.0,19,26,22,311.0
+Kia Corporation,KIA,Forte,Midsize Cars,"2-Wheel Drive, Front",1.6,201.0,22,31,26,262.0
+Kia Corporation,KIA,Forte,Midsize Cars,"2-Wheel Drive, Front",1.6,201.0,27,35,30,227.0
+Kia Corporation,KIA,Forte,Midsize Cars,"2-Wheel Drive, Front",2.0,147.0,28,39,32,202.0
+Kia Corporation,KIA,Forte FE,Midsize Cars,"2-Wheel Drive, Front",2.0,147.0,30,41,34,189.0
+Kia Corporation,KIA,K5,Large Cars,"2-Wheel Drive, Front",1.6,180.0,27,37,31,217.0
+Kia Corporation,KIA,K5,Large Cars,"2-Wheel Drive, Front",2.5,290.0,24,32,27,255.0
+Kia Corporation,KIA,K5 AWD,Large Cars,All Wheel Drive,1.6,180.0,25,33,28,234.0
+Kia Corporation,KIA,Seltos AWD,Small SUV 4WD,All Wheel Drive,1.6,195.0,25,27,26,248.0
+Kia Corporation,KIA,Seltos AWD,Small SUV 4WD,All Wheel Drive,2.0,147.0,27,31,29,228.0
+Kia Corporation,KIA,Seltos FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,147.0,28,34,31,211.0
+Kia Corporation,KIA,Sorento AWD,Small SUV 4WD,All Wheel Drive,2.5,191.0,23,28,25,268.0
+Kia Corporation,KIA,Sorento AWD,Small SUV 4WD,All Wheel Drive,2.5,281.0,20,27,23,295.0
+Kia Corporation,KIA,Sorento FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,191.0,23,31,26,253.0
+Kia Corporation,KIA,Sorento FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,281.0,20,29,23,291.0
+Kia Corporation,KIA,Soul,Small Station Wagons,"2-Wheel Drive, Front",2.0,147.0,27,33,30,223.0
+Kia Corporation,KIA,Soul Eco dynamics,Small Station Wagons,"2-Wheel Drive, Front",2.0,147.0,29,35,31,211.0
+Kia Corporation,KIA,Sportage AWD,Small SUV 4WD,All Wheel Drive,2.5,188.0,23,26,25,271.0
+Kia Corporation,KIA,Sportage FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,188.0,25,33,28,233.0
+Kia Corporation,KIA,Sportage FWD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,188.0,25,33,28,233.0
+Kia Corporation,KIA,Sportage X-pro,Small SUV 4WD,All Wheel Drive,2.5,188.0,23,30,26,258.0
+Kia Corporation,KIA,Telluride AWD,Small SUV 4WD,All Wheel Drive,3.8,291.0,18,24,20,338.0
+Kia Corporation,KIA,Telluride FWD,Small SUV 2WD,"2-Wheel Drive, Front",3.8,291.0,20,26,22,303.0
+Lotus Cars Ltd,Lotus,Emira,Two Seaters,"2-Wheel Drive, Rear",3.5,400.0,16,24,19,376.0
+Lotus Cars Ltd,Lotus,Emira,Two Seaters,"2-Wheel Drive, Rear",3.5,400.0,18,26,21,333.0
+Lotus Cars Ltd,Lotus,Emira,Two Seaters,"2-Wheel Drive, Rear",2.0,400.0,21,30,24,286.0
+"Maserati North America, Inc.",MASERATI,Ghibli Modena AWD,Midsize Cars,All Wheel Drive,3.0,424.0,17,25,20,361.0
+"Maserati North America, Inc.",MASERATI,Ghibli Modena AWD,Midsize Cars,All Wheel Drive,3.0,424.0,17,25,20,361.0
+"Maserati North America, Inc.",MASERATI,Ghibli Trofeo,Midsize Cars,"2-Wheel Drive, Rear",3.8,572.0,13,20,16,438.0
+"Maserati North America, Inc.",MASERATI,Ghibli Trofeo,Midsize Cars,"2-Wheel Drive, Rear",3.8,572.0,13,20,16,438.0
+"Maserati North America, Inc.",MASERATI,Ghibli Trofeo,Midsize Cars,"2-Wheel Drive, Rear",3.8,572.0,13,20,16,438.0
+"Maserati North America, Inc.",MASERATI,Ghibli Trofeo,Midsize Cars,"2-Wheel Drive, Rear",3.8,572.0,13,20,16,438.0
+"Maserati North America, Inc.",MASERATI,Grancabrio Trofeo,Subcompact Cars,All Wheel Drive,3.0,542.0,17,26,20,338.0
+"Maserati North America, Inc.",MASERATI,Grancabrio Trofeo,Subcompact Cars,All Wheel Drive,3.0,542.0,17,26,20,338.0
+"Maserati North America, Inc.",MASERATI,Granturismo Modena,Subcompact Cars,All Wheel Drive,3.0,483.0,18,27,21,324.0
+"Maserati North America, Inc.",MASERATI,Granturismo Modena,Subcompact Cars,All Wheel Drive,3.0,483.0,18,27,21,324.0
+"Maserati North America, Inc.",MASERATI,Granturismo Trofeo,Subcompact Cars,All Wheel Drive,3.0,542.0,18,27,21,324.0
+"Maserati North America, Inc.",MASERATI,Granturismo Trofeo,Subcompact Cars,All Wheel Drive,3.0,542.0,18,27,21,324.0
+"Maserati North America, Inc.",MASERATI,Grecale Trofeo,Small SUV 4WD,All Wheel Drive,3.0,523.0,18,25,20,332.0
+"Maserati North America, Inc.",MASERATI,Grecale Trofeo,Small SUV 4WD,All Wheel Drive,3.0,523.0,18,25,20,332.0
+"Maserati North America, Inc.",MASERATI,Levante GT,Standard SUV 4WD,All Wheel Drive,3.0,345.0,16,22,18,384.0
+"Maserati North America, Inc.",MASERATI,Levante GT,Standard SUV 4WD,All Wheel Drive,3.0,345.0,16,22,18,384.0
+"Maserati North America, Inc.",MASERATI,Levante Modena,Standard SUV 4WD,All Wheel Drive,3.0,424.0,16,22,18,384.0
+"Maserati North America, Inc.",MASERATI,Levante Modena,Standard SUV 4WD,All Wheel Drive,3.0,424.0,16,22,18,384.0
+"Maserati North America, Inc.",MASERATI,Levante Trofeo,Standard SUV 4WD,All Wheel Drive,3.8,572.0,13,20,16,444.0
+"Maserati North America, Inc.",MASERATI,Levante Trofeo,Standard SUV 4WD,All Wheel Drive,3.8,572.0,13,20,16,444.0
+"Maserati North America, Inc.",MASERATI,Levante Trofeo,Standard SUV 4WD,All Wheel Drive,3.8,572.0,13,20,16,444.0
+"Maserati North America, Inc.",MASERATI,Levante Trofeo,Standard SUV 4WD,All Wheel Drive,3.8,572.0,13,20,16,444.0
+"Maserati North America, Inc.",MASERATI,MC20,Two Seaters,"2-Wheel Drive, Rear",3.0,621.0,15,25,18,390.0
+"Maserati North America, Inc.",MASERATI,MC20,Two Seaters,"2-Wheel Drive, Rear",3.0,621.0,15,25,18,390.0
+"Maserati North America, Inc.",MASERATI,MC20 Spyder,Two Seaters,"2-Wheel Drive, Rear",3.0,621.0,15,25,18,389.0
+"Maserati North America, Inc.",MASERATI,MC20 Spyder,Two Seaters,"2-Wheel Drive, Rear",3.0,621.0,15,25,18,389.0
+"Maserati North America, Inc.",MASERATI,Quattroporte Modena AWD,Large Cars,All Wheel Drive,3.0,424.0,17,25,20,361.0
+"Maserati North America, Inc.",MASERATI,Quattroporte Modena AWD,Large Cars,All Wheel Drive,3.0,424.0,17,25,20,361.0
+Mazda Motor Corporation,MAZDA,CX-30 4WD,Small SUV 4WD,4-Wheel Drive,2.5,191.0,26,33,29,228.0
+Mazda Motor Corporation,MAZDA,CX-30 4WD,Small SUV 4WD,4-Wheel Drive,2.5,227.0,22,30,25,266.0
+Mazda Motor Corporation,MAZDA,CX-5 4WD,Small SUV 4WD,4-Wheel Drive,2.5,187.0,23,29,25,261.0
+Mazda Motor Corporation,MAZDA,CX-5 4WD,Small SUV 4WD,4-Wheel Drive,2.5,187.0,26,31,28,236.0
+Mazda Motor Corporation,MAZDA,CX-5 4WD,Small SUV 4WD,4-Wheel Drive,2.5,227.0,22,27,24,280.0
+Mazda Motor Corporation,MAZDA,MAZDA CX-50 4WD,Small SUV 4WD,4-Wheel Drive,2.5,187.0,24,30,27,249.0
+Mazda Motor Corporation,MAZDA,MAZDA CX-50 4WD,Small SUV 4WD,4-Wheel Drive,2.5,227.0,23,29,25,267.0
+Mazda Motor Corporation,MAZDA,MAZDA3 4-Door 2WD,Compact Cars,"2-Wheel Drive, Front",2.5,191.0,27,37,31,211.0
+Mazda Motor Corporation,MAZDA,MAZDA3 4-Door 4WD,Compact Cars,4-Wheel Drive,2.5,191.0,26,35,30,222.0
+Mazda Motor Corporation,MAZDA,MAZDA3 4-Door 4WD,Compact Cars,4-Wheel Drive,2.5,227.0,23,32,27,251.0
+Mazda Motor Corporation,MAZDA,MAZDA3 5-Door 2WD,Midsize Cars,"2-Wheel Drive, Front",2.5,191.0,26,36,30,218.0
+Mazda Motor Corporation,MAZDA,MAZDA3 5-Door 2WD,Midsize Cars,"2-Wheel Drive, Front",2.5,191.0,27,35,30,216.0
+Mazda Motor Corporation,MAZDA,MAZDA3 5-Door 4WD,Midsize Cars,4-Wheel Drive,2.5,191.0,26,33,29,230.0
+Mazda Motor Corporation,MAZDA,MAZDA3 5-Door 4WD,Midsize Cars,4-Wheel Drive,2.5,227.0,23,31,26,253.0
+Mazda Motor Corporation,MAZDA,MX-5,Two Seaters,"2-Wheel Drive, Rear",2.0,181.0,26,34,29,225.0
+Mazda Motor Corporation,MAZDA,MX-5,Two Seaters,"2-Wheel Drive, Rear",2.0,181.0,26,35,29,222.0
+McLaren Automotive Limited,McLaren,750S Coupe,Two Seaters,"2-Wheel Drive, Rear",4.0,740.0,15,19,17,421.0
+McLaren Automotive Limited,McLaren,750S Spider,Two Seaters,"2-Wheel Drive, Rear",4.0,740.0,15,19,17,421.0
+Mercedes Benz,MBX,AMG CLA 45 S 4MATIC,Compact Cars,All Wheel Drive,1.991,416.0,20,28,23,296.0
+Mercedes Benz,MBX,AMG G 63,Standard SUV 4WD,4-Wheel Drive,3.982,577.0,13,16,14,521.0
+Mercedes Benz,MBX,AMG G 63 4x4 Squared,Standard SUV 4WD,4-Wheel Drive,3.982,577.0,10,12,11,650.0
+Mercedes Benz,MBX,AMG GT 55 4MATIC+ (coupe),Two Seaters,All Wheel Drive,3.982,469.0,13,20,16,445.0
+Mercedes Benz,MBX,AMG GT 63 4MATIC+,Compact Cars,All Wheel Drive,3.982,577.0,15,21,17,398.0
+Mercedes Benz,MBX,AMG GT 63 4MATIC+ (coupe),Two Seaters,All Wheel Drive,3.982,577.0,13,20,16,445.0
+Mercedes Benz,MBX,AMG SL 55 4MATIC+,Minicompact Cars,All Wheel Drive,3.982,469.0,14,21,16,428.0
+Mercedes Benz,MBX,AMG SL 63 4MATIC+,Minicompact Cars,All Wheel Drive,3.982,577.0,14,21,16,428.0
+Mercedes Benz,MBX,G 550,Standard SUV 4WD,4-Wheel Drive,3.982,416.0,13,16,14,484.0
+Mercedes Benz,MBX,Maybach S 680 4Matic,Large Cars,All Wheel Drive,5.98,621.0,12,20,15,482.0
+Mitsubishi Motors Corporation,MTX,ECLIPSE CROSS 2WD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,152.0,25,28,26,238.0
+Mitsubishi Motors Corporation,MTX,ECLIPSE CROSS 4WD,Small SUV 4WD,4-Wheel Drive,1.5,152.0,25,26,25,249.0
+Mitsubishi Motors Corporation,MTX,ECLIPSE CROSS ES 4WD,Small SUV 4WD,4-Wheel Drive,1.5,152.0,25,28,26,240.0
+Mitsubishi Motors Corporation,MTX,MIRAGE,Compact Cars,"2-Wheel Drive, Front",1.2,78.0,36,43,39,159.0
+Mitsubishi Motors Corporation,MTX,MIRAGE,Compact Cars,"2-Wheel Drive, Front",1.2,78.0,36,43,39,159.0
+Mitsubishi Motors Corporation,MTX,MIRAGE G4,Compact Cars,"2-Wheel Drive, Front",1.2,78.0,35,41,37,168.0
+Mitsubishi Motors Corporation,MTX,Outlander Sport 2WD,Small SUV 2WD,"2-Wheel Drive, Front",2.0,148.0,24,30,27,249.0
+Mitsubishi Motors Corporation,MTX,Outlander Sport 4WD,Small SUV 4WD,4-Wheel Drive,2.0,148.0,23,29,26,257.0
+Mitsubishi Motors Corporation,MTX,Outlander Sport 4WD,Small SUV 4WD,4-Wheel Drive,2.4,168.0,23,28,25,263.0
+"Nissan Motor Co., Ltd.",NISSAN,ALTIMA,Midsize Cars,"2-Wheel Drive, Front",2.5,188.0,27,39,32,206.0
+"Nissan Motor Co., Ltd.",NISSAN,ALTIMA AWD,Midsize Cars,All Wheel Drive,2.5,182.0,26,36,30,222.0
+"Nissan Motor Co., Ltd.",NISSAN,ALTIMA SL/SR,Midsize Cars,"2-Wheel Drive, Front",2.5,188.0,27,37,31,211.0
+"Nissan Motor Co., Ltd.",NISSAN,ALTIMA SR,Midsize Cars,"2-Wheel Drive, Front",2.0,239.0,25,34,29,230.0
+"Nissan Motor Co., Ltd.",NISSAN,ARMADA 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.6,400.0,14,19,16,422.0
+"Nissan Motor Co., Ltd.",NISSAN,ARMADA 4WD,Standard SUV 4WD,4-Wheel Drive,5.6,400.0,13,18,15,441.0
+"Nissan Motor Co., Ltd.",NISSAN,ARMADA 4WD,Standard SUV 4WD,4-Wheel Drive,5.6,400.0,13,18,15,441.0
+"Nissan Motor Co., Ltd.",NISSAN,FRONTIER 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.8,310.0,18,24,21,324.0
+"Nissan Motor Co., Ltd.",NISSAN,FRONTIER 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.8,310.0,18,24,21,324.0
+"Nissan Motor Co., Ltd.",NISSAN,FRONTIER 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.8,310.0,18,23,20,335.0
+"Nissan Motor Co., Ltd.",NISSAN,FRONTIER 4WD PRO-4X,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.8,310.0,18,22,19,345.0
+"Nissan Motor Co., Ltd.",NISSAN,GT-R,Subcompact Cars,All Wheel Drive,3.8,565.0,16,22,18,380.0
+"Nissan Motor Co., Ltd.",NISSAN,KICKS,Midsize Cars,"2-Wheel Drive, Front",1.6,122.0,31,36,33,195.0
+"Nissan Motor Co., Ltd.",NISSAN,MURANO AWD,Midsize Station Wagons,All Wheel Drive,3.5,260.0,20,28,23,300.0
+"Nissan Motor Co., Ltd.",NISSAN,MURANO FWD,Midsize Station Wagons,"2-Wheel Drive, Front",3.5,260.0,20,28,23,287.0
+"Nissan Motor Co., Ltd.",MITSUBISHI,Outlander 2WD,Small SUV 2WD,"2-Wheel Drive, Front",2.5,181.0,24,31,27,244.0
+"Nissan Motor Co., Ltd.",MITSUBISHI,Outlander 4WD,Small SUV 4WD,4-Wheel Drive,2.5,181.0,24,30,26,247.0
+"Nissan Motor Co., Ltd.",NISSAN,PATHFINDER 2WD,Small SUV 2WD,"2-Wheel Drive, Front",3.5,284.0,20,27,23,291.0
+"Nissan Motor Co., Ltd.",NISSAN,PATHFINDER 4WD,Small SUV 4WD,4-Wheel Drive,3.5,284.0,21,27,23,283.0
+"Nissan Motor Co., Ltd.",NISSAN,PATHFINDER 4WD PLATINUM,Standard SUV 4WD,4-Wheel Drive,3.5,284.0,20,25,22,296.0
+"Nissan Motor Co., Ltd.",NISSAN,PATHFINDER 4WD ROCK CREEK,Small SUV 4WD,4-Wheel Drive,3.5,295.0,20,23,21,311.0
+"Nissan Motor Co., Ltd.",INFINITI,Q50,Midsize Cars,"2-Wheel Drive, Rear",3.0,300.0,20,29,23,288.0
+"Nissan Motor Co., Ltd.",INFINITI,Q50 AWD,Midsize Cars,All Wheel Drive,3.0,300.0,19,27,22,308.0
+"Nissan Motor Co., Ltd.",INFINITI,Q50 AWD RED SPORT,Midsize Cars,All Wheel Drive,3.0,400.0,19,26,22,308.0
+"Nissan Motor Co., Ltd.",INFINITI,Q50 RED SPORT,Midsize Cars,"2-Wheel Drive, Rear",3.0,400.0,20,26,22,307.0
+"Nissan Motor Co., Ltd.",INFINITI,QX50,Small SUV 2WD,"2-Wheel Drive, Front",2.0,268.0,23,29,26,248.0
+"Nissan Motor Co., Ltd.",INFINITI,QX50 AWD,Small SUV 4WD,All Wheel Drive,2.0,268.0,22,28,25,262.0
+"Nissan Motor Co., Ltd.",INFINITI,QX50 AWD,Small SUV 4WD,All Wheel Drive,2.0,268.0,22,28,25,262.0
+"Nissan Motor Co., Ltd.",INFINITI,QX55 AWD,Small SUV 4WD,All Wheel Drive,2.0,268.0,22,28,25,264.0
+"Nissan Motor Co., Ltd.",INFINITI,QX55 AWD,Small SUV 4WD,All Wheel Drive,2.0,268.0,22,28,25,264.0
+"Nissan Motor Co., Ltd.",INFINITI,QX60 AWD,Standard SUV 4WD,All Wheel Drive,3.5,295.0,20,25,22,307.0
+"Nissan Motor Co., Ltd.",INFINITI,QX60 FWD,Standard SUV 2WD,"2-Wheel Drive, Front",3.5,295.0,21,26,23,287.0
+"Nissan Motor Co., Ltd.",INFINITI,QX80 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",5.6,400.0,14,20,16,425.0
+"Nissan Motor Co., Ltd.",INFINITI,QX80 4WD,Standard SUV 4WD,4-Wheel Drive,5.6,400.0,13,19,15,445.0
+"Nissan Motor Co., Ltd.",NISSAN,ROGUE AWD,Small SUV 4WD,All Wheel Drive,1.5,201.0,28,35,31,194.0
+"Nissan Motor Co., Ltd.",NISSAN,ROGUE AWD SL/PLATINUM,Small SUV 4WD,All Wheel Drive,1.5,201.0,28,34,31,201.0
+"Nissan Motor Co., Ltd.",NISSAN,ROGUE FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,201.0,30,37,33,188.0
+"Nissan Motor Co., Ltd.",NISSAN,ROGUE FWD,Small SUV 2WD,"2-Wheel Drive, Front",1.5,201.0,30,37,33,188.0
+"Nissan Motor Co., Ltd.",NISSAN,ROGUE FWD SL/PLATINUM,Small SUV 2WD,"2-Wheel Drive, Front",1.5,201.0,29,36,32,192.0
+"Nissan Motor Co., Ltd.",NISSAN,SENTRA,Midsize Cars,"2-Wheel Drive, Front",2.0,149.0,30,40,34,180.0
+"Nissan Motor Co., Ltd.",NISSAN,SENTRA,Midsize Cars,"2-Wheel Drive, Front",2.0,149.0,30,40,34,180.0
+"Nissan Motor Co., Ltd.",NISSAN,SENTRA SR,Midsize Cars,"2-Wheel Drive, Front",2.0,149.0,30,38,33,187.0
+"Nissan Motor Co., Ltd.",NISSAN,SENTRA SR,Midsize Cars,"2-Wheel Drive, Front",2.0,149.0,30,38,33,187.0
+"Nissan Motor Co., Ltd.",NISSAN,TITAN 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",5.6,400.0,15,21,17,395.0
+"Nissan Motor Co., Ltd.",NISSAN,TITAN 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.6,400.0,15,21,17,402.0
+"Nissan Motor Co., Ltd.",NISSAN,TITAN 4WD PRO-4X,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,5.6,400.0,14,20,16,425.0
+"Nissan Motor Co., Ltd.",NISSAN,VERSA,Compact Cars,"2-Wheel Drive, Front",1.6,122.0,32,40,35,184.0
+"Nissan Motor Co., Ltd.",NISSAN,VERSA,Compact Cars,"2-Wheel Drive, Front",1.6,122.0,27,35,30,211.0
+"Nissan Motor Co., Ltd.",NISSAN,Z,Two Seaters,"2-Wheel Drive, Rear",3.0,400.0,18,24,20,334.0
+"Nissan Motor Co., Ltd.",NISSAN,Z,Two Seaters,"2-Wheel Drive, Rear",3.0,400.0,19,28,22,296.0
+"Nissan Motor Co., Ltd.",NISSAN,Z NISMO,Two Seaters,"2-Wheel Drive, Rear",3.0,420.0,17,24,19,326.0
+Porsche AG,Porsche,718 Boxster,Two Seaters,"2-Wheel Drive, Rear",2.0,300.0,20,25,22,312.0
+Porsche AG,Porsche,718 Boxster,Two Seaters,"2-Wheel Drive, Rear",2.0,300.0,21,27,24,283.0
+Porsche AG,Porsche,718 Boxster GTS 4.0,Two Seaters,"2-Wheel Drive, Rear",4.0,414.0,17,24,19,352.0
+Porsche AG,Porsche,718 Boxster GTS 4.0,Two Seaters,"2-Wheel Drive, Rear",4.0,414.0,19,24,21,319.0
+Porsche AG,Porsche,718 Boxster S,Two Seaters,"2-Wheel Drive, Rear",2.5,350.0,19,24,21,322.0
+Porsche AG,Porsche,718 Boxster S,Two Seaters,"2-Wheel Drive, Rear",2.5,350.0,19,25,22,312.0
+Porsche AG,Porsche,718 Cayman,Two Seaters,"2-Wheel Drive, Rear",2.0,300.0,20,25,22,312.0
+Porsche AG,Porsche,718 Cayman,Two Seaters,"2-Wheel Drive, Rear",2.0,300.0,21,27,24,283.0
+Porsche AG,Porsche,718 Cayman GTS 4.0,Two Seaters,"2-Wheel Drive, Rear",4.0,414.0,17,24,19,352.0
+Porsche AG,Porsche,718 Cayman GTS 4.0,Two Seaters,"2-Wheel Drive, Rear",4.0,414.0,19,24,21,319.0
+Porsche AG,Porsche,718 Cayman S,Two Seaters,"2-Wheel Drive, Rear",2.5,350.0,19,24,21,322.0
+Porsche AG,Porsche,718 Cayman S,Two Seaters,"2-Wheel Drive, Rear",2.5,350.0,19,25,22,312.0
+Porsche AG,Porsche,718 GT4 RS,Two Seaters,"2-Wheel Drive, Rear",4.0,493.0,15,19,16,424.0
+Porsche AG,Porsche,718 Spyder RS,Two Seaters,"2-Wheel Drive, Rear",4.0,493.0,14,19,16,430.0
+Porsche AG,Porsche,911 Carrera,Minicompact Cars,"2-Wheel Drive, Rear",3.0,379.0,18,24,20,317.0
+Porsche AG,Porsche,911 Carrera 4,Minicompact Cars,All Wheel Drive,3.0,379.0,18,24,20,320.0
+Porsche AG,Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,All Wheel Drive,3.0,379.0,18,24,20,324.0
+Porsche AG,Porsche,911 Carrera 4 GTS,Minicompact Cars,All Wheel Drive,3.0,473.0,17,23,19,340.0
+Porsche AG,Porsche,911 Carrera 4 GTS,Minicompact Cars,All Wheel Drive,3.0,473.0,17,23,19,348.0
+Porsche AG,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,All Wheel Drive,3.0,473.0,17,22,19,351.0
+Porsche AG,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,All Wheel Drive,3.0,473.0,16,23,19,351.0
+Porsche AG,Porsche,911 Carrera 4S,Minicompact Cars,All Wheel Drive,3.0,443.0,17,25,20,328.0
+Porsche AG,Porsche,911 Carrera 4S,Minicompact Cars,All Wheel Drive,3.0,443.0,18,23,20,334.0
+Porsche AG,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,All Wheel Drive,3.0,443.0,17,24,20,332.0
+Porsche AG,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,All Wheel Drive,3.0,379.0,18,23,20,332.0
+Porsche AG,Porsche,911 Carrera Cabriolet,Minicompact Cars,"2-Wheel Drive, Rear",3.0,379.0,18,24,20,318.0
+Porsche AG,Porsche,911 Carrera GTS,Minicompact Cars,"2-Wheel Drive, Rear",3.0,473.0,17,23,19,339.0
+Porsche AG,Porsche,911 Carrera GTS,Minicompact Cars,"2-Wheel Drive, Rear",3.0,473.0,17,24,20,338.0
+Porsche AG,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,"2-Wheel Drive, Rear",3.0,473.0,17,23,19,335.0
+Porsche AG,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,"2-Wheel Drive, Rear",3.0,473.0,17,24,20,335.0
+Porsche AG,Porsche,911 Carrera S,Minicompact Cars,"2-Wheel Drive, Rear",3.0,443.0,18,25,21,322.0
+Porsche AG,Porsche,911 Carrera S,Minicompact Cars,"2-Wheel Drive, Rear",3.0,443.0,18,23,20,332.0
+Porsche AG,Porsche,911 Carrera S Cabriolet,Minicompact Cars,"2-Wheel Drive, Rear",3.0,443.0,17,25,20,325.0
+Porsche AG,Porsche,911 Carrera S Cabriolet,Minicompact Cars,"2-Wheel Drive, Rear",3.0,443.0,18,23,20,332.0
+Porsche AG,Porsche,911 Carrera T,Minicompact Cars,"2-Wheel Drive, Rear",3.0,379.0,17,25,20,332.0
+Porsche AG,Porsche,911 Carrera T,Minicompact Cars,"2-Wheel Drive, Rear",3.0,379.0,18,24,20,325.0
+Porsche AG,Porsche,911 Dakar,Minicompact Cars,All Wheel Drive,3.0,473.0,16,24,19,352.0
+Porsche AG,Porsche,911 GT3,Two Seaters,"2-Wheel Drive, Rear",4.0,502.0,14,18,16,419.0
+Porsche AG,Porsche,911 GT3,Two Seaters,"2-Wheel Drive, Rear",4.0,502.0,13,19,15,440.0
+Porsche AG,Porsche,911 GT3 RS,Two Seaters,"2-Wheel Drive, Rear",4.0,518.0,14,18,16,445.0
+Porsche AG,Porsche,911 GT3 Touring,Two Seaters,"2-Wheel Drive, Rear",4.0,502.0,14,18,16,420.0
+Porsche AG,Porsche,911 GT3 Touring,Two Seaters,"2-Wheel Drive, Rear",4.0,502.0,13,19,15,438.0
+Porsche AG,Porsche,911 S/T,Two Seaters,"2-Wheel Drive, Rear",4.0,518.0,13,19,15,459.0
+Porsche AG,Porsche,911 Targa 4,Minicompact Cars,All Wheel Drive,3.0,379.0,18,24,20,321.0
+Porsche AG,Porsche,911 Targa 4 GTS,Minicompact Cars,All Wheel Drive,3.0,473.0,17,22,19,350.0
+Porsche AG,Porsche,911 Targa 4 GTS,Minicompact Cars,All Wheel Drive,3.0,473.0,16,23,19,351.0
+Porsche AG,Porsche,911 Targa 4S,Minicompact Cars,All Wheel Drive,3.0,443.0,18,23,20,325.0
+Porsche AG,Porsche,911 Targa 4S,Minicompact Cars,All Wheel Drive,3.0,443.0,17,24,20,338.0
+Porsche AG,Porsche,911 Turbo,Minicompact Cars,All Wheel Drive,3.745,572.0,14,21,17,416.0
+Porsche AG,Porsche,911 Turbo Cabriolet,Minicompact Cars,All Wheel Drive,3.745,572.0,14,20,16,426.0
+Porsche AG,Porsche,911 Turbo S,Minicompact Cars,All Wheel Drive,3.745,640.0,14,20,16,417.0
+Porsche AG,Porsche,911 Turbo S Cabriolet,Minicompact Cars,All Wheel Drive,3.745,640.0,14,20,16,422.0
+Porsche AG,Porsche,Cayenne,Standard SUV 4WD,All Wheel Drive,3.0,348.0,17,23,19,346.0
+Porsche AG,Porsche,Cayenne Coupe,Standard SUV 4WD,All Wheel Drive,3.0,348.0,17,23,19,342.0
+Porsche AG,Porsche,Cayenne S,Standard SUV 4WD,All Wheel Drive,4.0,468.0,15,21,17,390.0
+Porsche AG,Porsche,Cayenne S Coupe,Standard SUV 4WD,All Wheel Drive,4.0,468.0,15,21,17,393.0
+Porsche AG,Porsche,Cayenne Turbo GT,Standard SUV 4WD,All Wheel Drive,4.0,650.0,15,20,17,398.0
+Porsche AG,Porsche,Macan,Small SUV 4WD,All Wheel Drive,2.0,261.0,19,25,21,319.0
+Porsche AG,Porsche,Macan GTS,Small SUV 4WD,All Wheel Drive,2.9,434.0,17,22,19,348.0
+Porsche AG,Porsche,Macan S,Small SUV 4WD,All Wheel Drive,2.9,375.0,17,23,19,344.0
+Porsche AG,Porsche,Macan T,Small SUV 4WD,All Wheel Drive,2.0,261.0,19,25,21,319.0
+Porsche AG,Porsche,Panamera,Large Cars,"2-Wheel Drive, Rear",2.9,348.0,18,25,21,317.0
+Porsche AG,Porsche,Panamera 4,Large Cars,All Wheel Drive,2.9,348.0,18,25,21,326.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Cullinan,Midsize Station Wagons,All Wheel Drive,6.7,563.0,12,19,14,493.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Cullinan Black Badge,Midsize Station Wagons,All Wheel Drive,6.7,591.0,12,19,14,493.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Ghost,Large Cars,All Wheel Drive,6.7,563.0,12,19,14,491.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Ghost Black Badge,Large Cars,All Wheel Drive,6.7,591.0,12,19,14,491.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Ghost Extended,Large Cars,All Wheel Drive,6.7,563.0,12,19,14,491.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Phantom,Large Cars,"2-Wheel Drive, Rear",6.7,563.0,12,18,14,504.0
+Rolls-Royce Motor Cars Limited,Rolls-Royce,Phantom Extended,Large Cars,"2-Wheel Drive, Rear",6.7,563.0,12,18,14,504.0
+Subaru Corporation,Subaru,ASCENT AWD,Standard SUV 4WD,All Wheel Drive,2.4,260.0,20,26,22,303.0
+Subaru Corporation,Subaru,ASCENT LIMITED/TOURING/ONYX EDITION AWD,Standard SUV 4WD,All Wheel Drive,2.4,260.0,19,25,21,321.0
+Subaru Corporation,Subaru,BRZ,Minicompact Cars,"2-Wheel Drive, Rear",2.4,228.0,20,27,22,304.0
+Subaru Corporation,Subaru,BRZ,Minicompact Cars,"2-Wheel Drive, Rear",2.4,228.0,21,30,25,275.0
+Subaru Corporation,Subaru,CROSSTREK AWD,Small SUV 4WD,All Wheel Drive,2.0,152.0,27,34,29,221.0
+Subaru Corporation,Subaru,CROSSTREK AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,26,33,29,225.0
+Subaru Corporation,Subaru,CROSSTREK WILDERNESS AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,25,29,27,244.0
+Subaru Corporation,Subaru,FORESTER AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,26,33,29,229.0
+Subaru Corporation,Subaru,FORESTER AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,26,33,29,229.0
+Subaru Corporation,Subaru,FORESTER WILDERNESS AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,25,28,26,252.0
+Subaru Corporation,Subaru,IMPREZA,Small Station Wagons,All Wheel Drive,2.0,152.0,27,34,30,218.0
+Subaru Corporation,Subaru,IMPREZA,Small Station Wagons,All Wheel Drive,2.5,182.0,26,33,29,226.0
+Subaru Corporation,Subaru,LEGACY,Midsize Cars,All Wheel Drive,2.5,182.0,27,35,30,217.0
+Subaru Corporation,Subaru,LEGACY,Midsize Cars,All Wheel Drive,2.4,260.0,23,31,26,252.0
+Subaru Corporation,Subaru,OUTBACK AWD,Small SUV 4WD,All Wheel Drive,2.5,182.0,26,32,28,232.0
+Subaru Corporation,Subaru,OUTBACK AWD,Small SUV 4WD,All Wheel Drive,2.4,260.0,22,29,25,268.0
+Subaru Corporation,Subaru,OUTBACK WILDERNESS AWD,Small SUV 4WD,All Wheel Drive,2.4,260.0,21,26,23,286.0
+Subaru Corporation,Subaru,WRX,Midsize Cars,All Wheel Drive,2.4,271.0,19,26,22,312.0
+Subaru Corporation,Subaru,WRX,Midsize Cars,All Wheel Drive,2.4,271.0,18,25,21,323.0
+Toyota Motor Corporation,TOYOTA,4RUNNER 2WD,Standard SUV 2WD,"2-Wheel Drive, Rear",3.956,270.0,16,19,17,377.0
+Toyota Motor Corporation,TOYOTA,4RUNNER 4WD,Standard SUV 4WD,Part-time 4-Wheel Drive,3.956,270.0,16,19,17,388.0
+Toyota Motor Corporation,TOYOTA,4RUNNER 4WD,Standard SUV 4WD,All Wheel Drive,3.956,270.0,16,19,17,392.0
+Toyota Motor Corporation,TOYOTA,CAMRY,Midsize Cars,"2-Wheel Drive, Front",3.456,301.0,22,33,26,253.0
+Toyota Motor Corporation,TOYOTA,CAMRY AWD LE/SE,Midsize Cars,All Wheel Drive,2.487,202.0,25,34,29,229.0
+Toyota Motor Corporation,TOYOTA,CAMRY AWD LE/SE,Midsize Cars,All Wheel Drive,2.487,202.0,25,34,29,229.0
+Toyota Motor Corporation,TOYOTA,CAMRY AWD XLE/XSE,Midsize Cars,All Wheel Drive,2.487,202.0,25,34,28,229.0
+Toyota Motor Corporation,TOYOTA,CAMRY LE/SE,Midsize Cars,"2-Wheel Drive, Front",2.487,203.0,28,39,32,204.0
+Toyota Motor Corporation,TOYOTA,CAMRY LE/SE,Midsize Cars,"2-Wheel Drive, Front",2.487,203.0,28,39,32,203.0
+Toyota Motor Corporation,TOYOTA,CAMRY TRD,Midsize Cars,"2-Wheel Drive, Front",3.456,301.0,22,31,25,267.0
+Toyota Motor Corporation,TOYOTA,CAMRY XLE/XSE,Midsize Cars,"2-Wheel Drive, Front",2.487,203.0,27,38,31,204.0
+Toyota Motor Corporation,TOYOTA,CAMRY XSE,Midsize Cars,"2-Wheel Drive, Front",3.456,301.0,22,32,26,259.0
+Toyota Motor Corporation,TOYOTA,COROLLA,Compact Cars,"2-Wheel Drive, Front",1.987,169.0,32,41,35,176.0
+Toyota Motor Corporation,TOYOTA,COROLLA,Compact Cars,"2-Wheel Drive, Front",1.987,169.0,31,38,34,192.0
+Toyota Motor Corporation,TOYOTA,COROLLA,Compact Cars,"2-Wheel Drive, Front",1.987,169.0,31,40,34,186.0
+Toyota Motor Corporation,TOYOTA,COROLLA CROSS,Small SUV 2WD,"2-Wheel Drive, Front",1.987,169.0,31,33,32,191.0
+Toyota Motor Corporation,TOYOTA,COROLLA CROSS AWD,Small SUV 4WD,All Wheel Drive,1.987,169.0,29,31,30,202.0
+Toyota Motor Corporation,TOYOTA,COROLLA HATCHBACK,Compact Cars,"2-Wheel Drive, Front",1.987,169.0,32,41,35,180.0
+Toyota Motor Corporation,TOYOTA,COROLLA HATCHBACK XSE,Compact Cars,"2-Wheel Drive, Front",1.987,169.0,30,38,33,193.0
+Toyota Motor Corporation,LEXUS,ES 250 AWD,Midsize Cars,All Wheel Drive,2.487,202.0,25,34,28,229.0
+Toyota Motor Corporation,LEXUS,ES 350,Midsize Cars,"2-Wheel Drive, Front",3.456,301.0,22,32,26,260.0
+Toyota Motor Corporation,LEXUS,ES 350 F SPORT,Midsize Cars,"2-Wheel Drive, Front",3.456,301.0,22,31,25,265.0
+Toyota Motor Corporation,TOYOTA,GR COROLLA,Subcompact Cars,All Wheel Drive,1.618,300.0,21,28,24,277.0
+Toyota Motor Corporation,TOYOTA,GR86,Minicompact Cars,"2-Wheel Drive, Rear",2.4,228.0,20,26,22,306.0
+Toyota Motor Corporation,TOYOTA,GR86,Minicompact Cars,"2-Wheel Drive, Rear",2.4,228.0,21,30,24,277.0
+Toyota Motor Corporation,TOYOTA,GRAND HIGHLANDER AWD LE/XLE,Standard SUV 4WD,All Wheel Drive,2.393,265.0,21,27,23,287.0
+Toyota Motor Corporation,TOYOTA,GRAND HIGHLANDER AWD LIMITED/PLATINUM,Standard SUV 4WD,All Wheel Drive,2.393,265.0,20,26,22,296.0
+Toyota Motor Corporation,TOYOTA,GRAND HIGHLANDER LE/XLE,Standard SUV 2WD,"2-Wheel Drive, Front",2.393,265.0,21,28,24,276.0
+Toyota Motor Corporation,TOYOTA,GRAND HIGHLANDER LIMITED,Standard SUV 2WD,"2-Wheel Drive, Front",2.393,265.0,21,28,24,276.0
+Toyota Motor Corporation,LEXUS,GX 550,Standard SUV 4WD,4-Wheel Drive,3.445,349.0,15,21,17,391.0
+Toyota Motor Corporation,TOYOTA,HIGHLANDER,Small SUV 2WD,"2-Wheel Drive, Front",2.393,265.0,22,29,25,270.0
+Toyota Motor Corporation,TOYOTA,HIGHLANDER,Small SUV 2WD,"2-Wheel Drive, Front",2.393,265.0,21,28,24,280.0
+Toyota Motor Corporation,TOYOTA,HIGHLANDER AWD,Small SUV 4WD,All Wheel Drive,2.393,265.0,21,28,24,280.0
+Toyota Motor Corporation,LEXUS,IS 300,Compact Cars,"2-Wheel Drive, Rear",1.998,241.0,21,31,25,268.0
+Toyota Motor Corporation,LEXUS,IS 300 AWD,Compact Cars,All Wheel Drive,3.456,260.0,19,26,22,310.0
+Toyota Motor Corporation,LEXUS,IS 350,Compact Cars,"2-Wheel Drive, Rear",3.456,311.0,20,28,23,292.0
+Toyota Motor Corporation,LEXUS,IS 350 AWD,Compact Cars,All Wheel Drive,3.456,311.0,19,26,22,310.0
+Toyota Motor Corporation,LEXUS,IS 500,Compact Cars,"2-Wheel Drive, Rear",4.969,472.0,17,25,20,352.0
+Toyota Motor Corporation,LEXUS,LC 500,Subcompact Cars,"2-Wheel Drive, Rear",4.969,471.0,16,24,18,373.0
+Toyota Motor Corporation,LEXUS,LC 500 CONVERTIBLE,Minicompact Cars,"2-Wheel Drive, Rear",4.969,471.0,15,25,18,380.0
+Toyota Motor Corporation,LEXUS,LS 500,Midsize Cars,"2-Wheel Drive, Rear",3.445,416.0,18,29,22,309.0
+Toyota Motor Corporation,LEXUS,LS 500 AWD,Midsize Cars,All Wheel Drive,3.445,416.0,17,27,21,320.0
+Toyota Motor Corporation,LEXUS,LX 600,Standard SUV 4WD,All Wheel Drive,3.445,409.0,17,22,19,369.0
+Toyota Motor Corporation,LEXUS,NX 250,Small SUV 2WD,"2-Wheel Drive, Front",2.487,203.0,26,33,28,230.0
+Toyota Motor Corporation,LEXUS,NX 250 AWD,Small SUV 4WD,All Wheel Drive,2.487,203.0,25,32,28,232.0
+Toyota Motor Corporation,LEXUS,NX 350 AWD,Small SUV 4WD,All Wheel Drive,2.393,275.0,21,28,24,280.0
+Toyota Motor Corporation,LEXUS,NX 350 AWD F SPORT,Small SUV 4WD,All Wheel Drive,2.393,275.0,21,28,24,273.0
+Toyota Motor Corporation,TOYOTA,RAV4,Small SUV 2WD,"2-Wheel Drive, Front",2.487,203.0,27,35,30,214.0
+Toyota Motor Corporation,TOYOTA,RAV4 AWD,Small SUV 4WD,All Wheel Drive,2.487,203.0,27,33,29,222.0
+Toyota Motor Corporation,TOYOTA,RAV4 AWD,Small SUV 4WD,All Wheel Drive,2.487,203.0,25,33,28,237.0
+Toyota Motor Corporation,TOYOTA,RAV4 AWD LE,Small SUV 4WD,All Wheel Drive,2.487,203.0,27,34,30,218.0
+Toyota Motor Corporation,TOYOTA,RAV4 AWD TRD OFFROAD,Small SUV 4WD,All Wheel Drive,2.487,203.0,25,32,28,240.0
+Toyota Motor Corporation,LEXUS,RC 300,Subcompact Cars,"2-Wheel Drive, Rear",1.998,241.0,21,31,25,268.0
+Toyota Motor Corporation,LEXUS,RC 300 AWD,Subcompact Cars,All Wheel Drive,3.456,260.0,19,26,22,310.0
+Toyota Motor Corporation,LEXUS,RC 350,Subcompact Cars,"2-Wheel Drive, Rear",3.456,311.0,20,28,23,292.0
+Toyota Motor Corporation,LEXUS,RC 350 AWD,Subcompact Cars,All Wheel Drive,3.456,311.0,19,26,22,310.0
+Toyota Motor Corporation,LEXUS,RC F,Subcompact Cars,"2-Wheel Drive, Rear",4.969,472.0,16,24,19,357.0
+Toyota Motor Corporation,LEXUS,RX 350,Small SUV 2WD,"2-Wheel Drive, Front",2.393,275.0,22,29,25,266.0
+Toyota Motor Corporation,LEXUS,RX 350 AWD,Small SUV 4WD,All Wheel Drive,2.393,275.0,21,28,24,279.0
+Toyota Motor Corporation,TOYOTA,TACOMA 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,228.0,20,26,23,299.0
+Toyota Motor Corporation,TOYOTA,TACOMA 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,228.0,20,26,23,299.0
+Toyota Motor Corporation,TOYOTA,TACOMA 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,228.0,19,24,21,324.0
+Toyota Motor Corporation,TOYOTA,TACOMA 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,228.0,19,24,21,324.0
+Toyota Motor Corporation,TOYOTA,TACOMA 4WD MT,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,270.0,18,23,20,347.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,19,23,21,330.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,19,23,21,330.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,20,23,21,320.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,20,23,21,320.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,19,24,21,324.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD,Small Pick-up Trucks 4WD,Part-time 4-Wheel Drive,2.393,278.0,19,24,21,324.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,278.0,20,24,22,307.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,278.0,20,24,22,307.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,278.0,21,26,23,298.0
+Toyota Motor Corporation,TOYOTA,TACOMA SR5/SPORT/PRERUNNER 2WD,Small Pick-up Trucks 2WD,"2-Wheel Drive, Rear",2.393,278.0,21,26,23,298.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.445,358.0,18,23,20,341.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.445,358.0,18,23,20,341.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.445,389.0,18,23,20,337.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,"2-Wheel Drive, Rear",3.445,389.0,18,23,20,337.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.445,358.0,17,22,19,360.0
+Toyota Motor Corporation,TOYOTA,TUNDRA 4WD,Standard Pick-up Trucks 4WD,Part-time 4-Wheel Drive,3.445,389.0,17,22,19,353.0
+Toyota Motor Corporation,LEXUS,TX 350,Standard SUV 2WD,"2-Wheel Drive, Front",2.393,275.0,21,27,23,284.0
+Toyota Motor Corporation,LEXUS,TX 350,Standard SUV 2WD,"2-Wheel Drive, Front",2.393,275.0,21,27,23,284.0
+Toyota Motor Corporation,LEXUS,TX 350 AWD,Standard SUV 4WD,All Wheel Drive,2.393,275.0,20,26,23,293.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas,Small SUV 2WD,"2-Wheel Drive, Front",2.0,269.0,20,27,23,297.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas 4Motion Peak Edition,Small SUV 4WD,All Wheel Drive,2.0,269.0,18,24,20,333.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas Cross Sport,Small SUV 2WD,"2-Wheel Drive, Front",2.0,269.0,20,27,23,300.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas Cross Sport 4Motion,Small SUV 4WD,All Wheel Drive,2.0,269.0,19,26,22,311.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas SE 4Motion,Small SUV 4WD,All Wheel Drive,2.0,269.0,19,26,22,314.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas SE 4Motion,Small SUV 4WD,All Wheel Drive,2.0,269.0,19,26,22,314.0
+"Volkswagen Group of America, Inc.",Volkswagen,Atlas SEL 4Motion,Small SUV 4WD,All Wheel Drive,2.0,269.0,19,25,21,320.0
+"Volkswagen Group of America, Inc.",Bentley,Bentayga,Standard SUV 4WD,All Wheel Drive,4.0,542.0,14,21,16,428.0
+"Volkswagen Group of America, Inc.",Bentley,Bentayga EWB,Standard SUV 4WD,All Wheel Drive,4.0,542.0,14,21,16,428.0
+"Volkswagen Group of America, Inc.",Bugatti,Chiron Super Sport,Two Seaters,All Wheel Drive,8.0,1600.0,8,11,9,786.0
+"Volkswagen Group of America, Inc.",Bentley,Continental GT,Subcompact Cars,All Wheel Drive,6.0,650.0,12,20,15,475.0
+"Volkswagen Group of America, Inc.",Bentley,Continental GT,Subcompact Cars,All Wheel Drive,4.0,542.0,14,22,17,406.0
+"Volkswagen Group of America, Inc.",Bentley,Continental GTC,Minicompact Cars,All Wheel Drive,6.0,650.0,12,19,14,492.0
+"Volkswagen Group of America, Inc.",Bentley,Continental GTC,Minicompact Cars,All Wheel Drive,4.0,542.0,14,21,16,421.0
+"Volkswagen Group of America, Inc.",Bentley,Flying Spur,Midsize Cars,All Wheel Drive,6.0,626.0,12,19,15,479.0
+"Volkswagen Group of America, Inc.",Bentley,Flying Spur,Midsize Cars,All Wheel Drive,4.0,542.0,15,20,17,416.0
+"Volkswagen Group of America, Inc.",Volkswagen,GLI,Compact Cars,"2-Wheel Drive, Front",2.0,228.0,26,36,30,226.0
+"Volkswagen Group of America, Inc.",Volkswagen,GLI,Compact Cars,"2-Wheel Drive, Front",2.0,228.0,24,35,28,238.0
+"Volkswagen Group of America, Inc.",Volkswagen,GTI,Compact Cars,"2-Wheel Drive, Front",2.0,241.0,24,33,27,245.0
+"Volkswagen Group of America, Inc.",Volkswagen,GTI,Compact Cars,"2-Wheel Drive, Front",2.0,241.0,23,34,27,256.0
+"Volkswagen Group of America, Inc.",Volkswagen,Golf R,Compact Cars,All Wheel Drive,2.0,315.0,22,31,25,268.0
+"Volkswagen Group of America, Inc.",Volkswagen,Golf R,Compact Cars,All Wheel Drive,2.0,315.0,20,28,23,306.0
+"Volkswagen Group of America, Inc.",Lamborghini,Huracan Coupe 2WD,Two Seaters,"2-Wheel Drive, Rear",5.2,630.0,13,18,15,479.0
+"Volkswagen Group of America, Inc.",Lamborghini,Huracan Coupe 2WD,Two Seaters,"2-Wheel Drive, Rear",5.2,630.0,13,18,15,479.0
+"Volkswagen Group of America, Inc.",Lamborghini,Huracan Spyder,Two Seaters,All Wheel Drive,5.2,630.0,13,18,15,480.0
+"Volkswagen Group of America, Inc.",Lamborghini,Huracan Sterrato,Two Seaters,All Wheel Drive,5.2,602.0,13,18,15,480.0
+"Volkswagen Group of America, Inc.",Volkswagen,Jetta,Compact Cars,"2-Wheel Drive, Front",1.5,158.0,29,42,34,193.0
+"Volkswagen Group of America, Inc.",Volkswagen,Jetta,Compact Cars,"2-Wheel Drive, Front",1.5,158.0,30,41,34,192.0
+"Volkswagen Group of America, Inc.",Volkswagen,Jetta Sport/SE/SEL,Compact Cars,"2-Wheel Drive, Front",1.5,158.0,29,40,33,198.0
+"Volkswagen Group of America, Inc.",Audi,Q3 S line quattro,Small SUV 4WD,All Wheel Drive,2.0,228.0,20,28,23,291.0
+"Volkswagen Group of America, Inc.",Audi,Q3 quattro,Small SUV 4WD,All Wheel Drive,2.0,184.0,22,29,25,271.0
+"Volkswagen Group of America, Inc.",Audi,Q7 quattro,Standard SUV 4WD,All Wheel Drive,2.0,261.0,19,25,21,317.0
+"Volkswagen Group of America, Inc.",Audi,RS 3,Subcompact Cars,All Wheel Drive,2.5,401.0,19,29,23,312.0
+"Volkswagen Group of America, Inc.",Audi,RS 5 Coupe,Subcompact Cars,All Wheel Drive,2.9,444.0,18,25,21,333.0
+"Volkswagen Group of America, Inc.",Audi,RS 5 Sportback,Midsize Cars,All Wheel Drive,2.9,444.0,18,25,20,341.0
+"Volkswagen Group of America, Inc.",Audi,RS 5 Sportback,Midsize Cars,All Wheel Drive,2.9,444.0,18,25,20,341.0
+"Volkswagen Group of America, Inc.",Audi,S4,Compact Cars,All Wheel Drive,3.0,349.0,21,29,24,283.0
+"Volkswagen Group of America, Inc.",Audi,S5 Cabriolet,Subcompact Cars,All Wheel Drive,3.0,349.0,20,27,22,302.0
+"Volkswagen Group of America, Inc.",Audi,S5 Coupe,Subcompact Cars,All Wheel Drive,3.0,349.0,21,29,24,283.0
+"Volkswagen Group of America, Inc.",Audi,S5 Sportback,Midsize Cars,All Wheel Drive,3.0,349.0,20,29,23,292.0
+"Volkswagen Group of America, Inc.",Audi,SQ5,Small SUV 4WD,All Wheel Drive,3.0,349.0,19,24,21,326.0
+"Volkswagen Group of America, Inc.",Audi,SQ5 Sportback,Small SUV 4WD,All Wheel Drive,3.0,349.0,19,24,21,326.0
+"Volkswagen Group of America, Inc.",Audi,SQ7,Standard SUV 4WD,4-Wheel Drive,4.0,500.0,15,21,17,418.0
+"Volkswagen Group of America, Inc.",Audi,SQ7,Standard SUV 4WD,4-Wheel Drive,4.0,500.0,15,21,17,418.0
+"Volkswagen Group of America, Inc.",Audi,SQ8,Standard SUV 4WD,All Wheel Drive,4.0,500.0,15,21,17,411.0
+"Volkswagen Group of America, Inc.",Audi,SQ8,Standard SUV 4WD,All Wheel Drive,4.0,500.0,15,21,17,411.0
+"Volkswagen Group of America, Inc.",Volkswagen,Taos,Small SUV 2WD,"2-Wheel Drive, Front",1.5,158.0,28,36,31,210.0
+"Volkswagen Group of America, Inc.",Volkswagen,Taos 4Motion,Small SUV 4WD,All Wheel Drive,1.5,158.0,24,32,27,247.0
+"Volkswagen Group of America, Inc.",Volkswagen,Taos 4Motion,Small SUV 4WD,All Wheel Drive,1.5,158.0,24,32,27,247.0
+"Volkswagen Group of America, Inc.",Volkswagen,Tiguan,Small SUV 2WD,"2-Wheel Drive, Front",2.0,184.0,23,30,26,255.0
+"Volkswagen Group of America, Inc.",Volkswagen,Tiguan 4Motion,Small SUV 4WD,All Wheel Drive,2.0,184.0,22,29,25,268.0
+"Volkswagen Group of America, Inc.",Volkswagen,Tiguan R-Line 4Motion,Small SUV 4WD,All Wheel Drive,2.0,184.0,22,29,24,275.0
+"Volkswagen Group of America, Inc.",Volkswagen,Tiguan S,Small SUV 2WD,"2-Wheel Drive, Front",2.0,184.0,24,31,27,246.0
+"Volkswagen Group of America, Inc.",Lamborghini,Urus Performante,Small Station Wagons,All Wheel Drive,4.0,591.0,14,19,16,432.0
+"Volkswagen Group of America, Inc.",Lamborghini,Urus S,Standard SUV 4WD,All Wheel Drive,4.0,591.0,14,19,16,432.0

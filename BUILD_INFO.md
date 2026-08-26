@@ -5,7 +5,7 @@ This repository is generated from the private canonical source repository.
 - Output target: `online`
 - Source repository: `Chelsea-Myers/Data_Visualization_and_Modeling_Source`
 - Source branch: `main`
-- Source commit: `1535e35c4cd40141ace790c12463efb958a381c9`
-- Build time UTC: `2026-08-26T13:04:33+00:00`
+- Source commit: `33e21bbafba0ac7b0aaf78919118a61722077751`
+- Build time UTC: `2026-08-26T14:30:13+00:00`
 
 Do not edit generated output files directly. Make course changes in the source repository.

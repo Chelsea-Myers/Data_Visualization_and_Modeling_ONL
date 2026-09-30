@@ -1,0 +1,32 @@
+{
+  "source": "Plotly Express px.data.gapminder()",
+  "documentation": "https://jennybc.github.io/gapminder/reference/gapminder.html",
+  "preparation": "Export all rows and columns with to_csv(index=False).",
+  "rows": 1704,
+  "countries": 142,
+  "years": [
+    1952,
+    1957,
+    1962,
+    1967,
+    1972,
+    1977,
+    1982,
+    1987,
+    1992,
+    1997,
+    2002,
+    2007
+  ],
+  "missing_values": {
+    "country": 0,
+    "continent": 0,
+    "year": 0,
+    "lifeExp": 0,
+    "pop": 0,
+    "gdpPercap": 0,
+    "iso_alpha": 0,
+    "iso_num": 0
+  },
+  "output_sha256": "02d91aab1d34ce15ce0fc947050bb7aaa251127d654efa8e1e394cdb6c9ac517"
+}

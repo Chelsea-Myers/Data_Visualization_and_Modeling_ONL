@@ -13,8 +13,8 @@ examples while moving through the course materials.
 - Supplemental notebooks
 - Datasets and support files used by the notebooks
 
-Generated Python `.py` source files and private instructor notes are not
-included in this student-facing repository.
+Notebook Python source files and private instructor notes are not included.
+The two deployment `app.py` files in `dashboards/` are included for hosting.
 
 ## Recommended Setup
 
@@ -103,3 +103,7 @@ ask your instructor and include:
 - A screenshot of the error
 - The notebook or file you were working in
 - Whether you are using Windows or macOS
+
+## Publish your dashboards
+
+Use the [dashboard deployment guide](dashboards/README.md) to host the class bike/scooter demo and your personal dashboard as separate Render services from this same repository. The `dashboards/` folder includes both deployment apps and their package lists.

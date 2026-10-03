@@ -1,0 +1,4 @@
+dash>=2.11,<5
+plotly>=5,<7
+pandas>=2,<3
+gunicorn>=23,<24

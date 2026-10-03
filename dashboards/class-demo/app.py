@@ -7,6 +7,8 @@ import pandas as pd
 def build_dashboard(data):
     data = data.copy()
     devices = ['Non-electric bicycle', 'E-bike', 'Unpowered scooter', 'Powered scooter']
+    powered = {'E-bike', 'Powered scooter'}
+    bikes = {'Non-electric bicycle', 'E-bike'}
     colors = dict(zip(devices, ['#1f77b4', '#2ca02c', '#ff7f0e', '#9467bd']))
     app = Dash(__name__)
     app.layout = html.Div([
@@ -15,6 +17,23 @@ def build_dashboard(data):
         html.Label('Patient ages — updates all figures and the table', htmlFor='ages'),
         dcc.RangeSlider(id='ages', min=5, max=17, step=1, value=[5, 17],
                         marks={age: str(age) for age in range(5, 18)}, allowCross=False),
+        html.Div([
+            html.Div('Power'),
+            dcc.RadioItems(id='power', options=[
+                {'label': 'All', 'value': 'all'},
+                {'label': 'Powered', 'value': 'powered'},
+                {'label': 'Unpowered', 'value': 'unpowered'}
+            ], value='all', inline=True, inputStyle={'marginRight': '6px'},
+                labelStyle={'marginRight': '20px'}),
+            html.Div('Device', style={'marginTop': '12px'}),
+            dcc.RadioItems(id='device', options=[
+                {'label': 'All', 'value': 'all'},
+                {'label': 'Bike', 'value': 'bike'},
+                {'label': 'Scooter', 'value': 'scooter'}
+            ], value='all', inline=True, inputStyle={'marginRight': '6px'},
+                labelStyle={'marginRight': '20px'}),
+            html.P('Age, power, and device selections update all figures and the table.')
+        ], style={'marginTop': '24px'}),
         html.P(id='sample-summary'),
         dcc.Graph(id='shares'),
         dcc.Graph(id='ages-plot'),
@@ -31,14 +50,18 @@ def build_dashboard(data):
 
     @app.callback(Output('shares', 'figure'), Output('ages-plot', 'figure'),
                   Output('care', 'figure'), Output('care-percent', 'figure'), Output('care-table', 'children'),
-                  Output('sample-summary', 'children'), Input('ages', 'value'))
-    def update_dashboard(ages):
-        selected = data.loc[data['age'].between(*ages)]
+                  Output('sample-summary', 'children'), Input('ages', 'value'),
+                  Input('power', 'value'), Input('device', 'value'))
+    def update_dashboard(ages, power, device):
+        visible_devices = [name for name in devices
+                           if (power == 'all' or (name in powered) == (power == 'powered'))
+                           and (device == 'all' or (name in bikes) == (device == 'bike'))]
+        selected = data.loc[data['age'].between(*ages) & data['device_type'].isin(visible_devices)]
         summary = selected.groupby('device_type').agg(cases=('case_number', 'size'),
                                                       care_cases=('additional_care', 'sum'))
-        summary = summary.reindex(devices, fill_value=0).reset_index()
+        summary = summary.reindex(visible_devices, fill_value=0).reset_index()
         conditional = pd.crosstab(selected['device_type'], selected['additional_care'], normalize='index') * 100
-        conditional = conditional.reindex(index=devices, columns=[False, True], fill_value=0)
+        conditional = conditional.reindex(index=visible_devices, columns=[False, True], fill_value=0)
         summary['care_percent'] = conditional[True].to_numpy()
         summary.loc[summary['cases'].eq(0), 'care_percent'] = float('nan')
         shares = px.bar(summary, x='device_type', y='cases', color='device_type',
@@ -46,15 +69,15 @@ def build_dashboard(data):
                         labels={'device_type': 'Device type', 'cases': 'Cases in dataset'},
                         title='Recorded cases by device type')
         counts = selected.groupby(['age', 'device_type']).size().reindex(
-            pd.MultiIndex.from_product([range(ages[0], ages[1] + 1), devices],
+            pd.MultiIndex.from_product([range(ages[0], ages[1] + 1), visible_devices],
                                        names=['age', 'device_type']), fill_value=0).reset_index(name='cases')
         age_plot = px.line(counts, x='age', y='cases', color='device_type',
-                          color_discrete_map=colors, category_orders={'device_type': devices},
+                          color_discrete_map=colors, category_orders={'device_type': visible_devices},
                           labels={'age': 'Patient age (years)', 'cases': 'Cases in dataset'},
                           title='Recorded cases by age')
         age_plot.update_layout(legend={'x': 1.02, 'y': 1, 'xanchor': 'left'}, margin={'r': 210})
         care_counts = selected.groupby(['device_type', 'additional_care']).size().reindex(
-            pd.MultiIndex.from_product([devices, [False, True]],
+            pd.MultiIndex.from_product([visible_devices, [False, True]],
                                        names=['device_type', 'additional_care']), fill_value=0).reset_index(name='cases')
         care_counts['additional_care'] = care_counts['additional_care'].map({False: 'No additional care', True: 'Additional care required'})
         care = px.bar(care_counts, x='device_type', y='cases', color='additional_care', barmode='group',
@@ -74,7 +97,7 @@ def build_dashboard(data):
                                 [row.device_type, row.cases, row.cases - row.care_cases, row.care_cases, percent]]))
         for figure in [shares, age_plot, care, care_percent_plot]:
             figure.update_layout(template='plotly_white', height=460)
-        message = f'{len(selected):,} included cases.'
+        message = f'{len(selected):,} included cases. Ages {ages[0]}–{ages[1]}; power: {power}; device: {device}.'
         if selected.empty:
             message += ' No cases in this selection; within-device percentages are undefined.'
         return shares, age_plot, care, care_percent_plot, html.Table(rows), message
